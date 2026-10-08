@@ -7,7 +7,7 @@
 - [x] Basic hiragana
 - [x] Dakuten / handakuten
 - [x] Small ゃ ゅ ょ
-- [ ] Small っ
+- [x] Small っ
 - [ ] ん
 
 ### Katakana
