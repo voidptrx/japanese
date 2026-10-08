@@ -46,7 +46,7 @@ Read Japanese kana without relying on romaji.
 
 - [x] Basic hiragana
 - [x] Dakuten / handakuten
-- [ ] Small ゃ / ゅ / ょ
+- [x] Small ゃ / ゅ / ょ
 - [ ] Small っ
 - [ ] ん
 - [ ] Long sounds

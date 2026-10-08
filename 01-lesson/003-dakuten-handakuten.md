@@ -5,7 +5,7 @@
 - I learned how dakuten (゛) changes certain hiragana sounds.
 - I learned how handakuten (゜) changes the は row.
 - I understand these as transformations of existing kana rows rather than completely separate patterns.
-- I can regonize dakuten and handakuten kana individually and inside words.
+- I can recognize dakuten and handakuten kana individually and inside words.
 
 # 2. Dakuten
 
@@ -13,7 +13,7 @@ Dakuten is the mark `゛`. It changes the sound of certain kana.
 
 ### The `か` row
 
-| が  | ぎ  | ぐ  | ぎ  | ご  |
+| が  | ぎ  | ぐ  | げ  | ご  |
 | :-: | :-: | :-: | :-: | :-: |
 | ga  | gi  | gu  | ge  | go  |
 
