@@ -23,3 +23,15 @@
 | しっぱい | 失敗  | failure, mistake                           |
 | さっか   | 作家  | writer, author                             |
 | いっぱい | 一杯  | full; one cup/glass (depending on context) |
+
+## Lesson 006 - Nasal Mora
+
+| Hiragana | Kanji | Meaning          |
+| -------- | ----- | ---------------- |
+| ほん     | 本    | book             |
+| さんぽ   | 散歩  | walk, stroll     |
+| てんき   | 天気  | weather          |
+| しんぶん | 新聞  | newspaper        |
+| かんじ   | 漢字  | kanji characters |
+| にほん   | 日本  | Japan            |
+| i ほんや | 本屋  | bookstore        |
