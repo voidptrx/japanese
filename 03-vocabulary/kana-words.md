@@ -35,3 +35,22 @@
 | かんじ   | 漢字  | kanji characters |
 | にほん   | 日本  | Japan            |
 | i ほんや | 本屋  | bookstore        |
+
+## Lesson 007 - Long Vowels
+
+| Hiragana   | Kanji               | Meaning                                         |
+| ---------- | ------------------- | ----------------------------------------------- |
+| おばさん   | 伯母さん / 叔母さん | aunt; also middle-aged woman (usually おばさん) |
+| おばあさん | お婆さん            | grandmother / elderly woman                     |
+| おじさん   | 伯父さん / 叔父さん | uncle; also middle-aged man (usually おじさん)  |
+| おじいさん | お爺さん            | grandfather / elderly man                       |
+| おかあさん | お母さん            | mother                                          |
+| おにいさん | お兄さん            | older brother                                   |
+| くうき     | 空気                | air                                             |
+| こうこう   | 高校                | high school                                     |
+| せんせい   | 先生                | teacher                                         |
+| きょう     | 今日                | today                                           |
+| がっこう   | 学校                | school                                          |
+| りょこう   | 旅行                | travel / trip                                   |
+| びょういん | 病院                | hospital                                        |
+| みずいろ   | 水色                | light blue                                      |

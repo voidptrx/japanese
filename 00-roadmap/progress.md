@@ -9,7 +9,7 @@
 - [x] Small ゃ ゅ ょ
 - [x] Small っ
 - [x] ん
-- [ ] Long sounds
+- [x] Long sounds
 
 ### Katakana
 
