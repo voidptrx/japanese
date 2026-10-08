@@ -1,17 +1,11 @@
 # Progress
 
-## Current
-
-- Level: Japanese 0
-- Lesson: 0
-- Focus: Japanese sound system
-
 ## Kana
 
 ### Hiragana
 
-- [ ] Basic hiragana
-- [ ] Dakuten / handakuten
+- [x] Basic hiragana
+- [x] Dakuten / handakuten
 - [ ] Small ゃ ゅ ょ
 - [ ] Small っ
 - [ ] ん
