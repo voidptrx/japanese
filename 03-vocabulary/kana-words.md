@@ -82,3 +82,16 @@
 | ボタン   | button   |
 | ポスト   | postbox  |
 | ピザ     | pizza    |
+
+## Lesson 010 - Katakana Yoon
+
+| Katakana   | Meaning              |
+| ---------- | -------------------- |
+| シャツ     | shirt                |
+| ジャム     | jam                  |
+| チョコ     | chocolate            |
+| キャンプ   | camp, camping        |
+| チャンス   | chance, opportunity  |
+| チャイム   | chime, bell          |
+| マニュアル | manual, instructions |
+| ニュアンス | nuance               |

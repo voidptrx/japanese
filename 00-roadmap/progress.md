@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 009 - Katakana Dakuten & Handakuten (completed)
-- Focus: Katakana Yoon - Small ャ / ュ / ョ (next)
+- Lesson: 010 - Katakana Yoon (completed)
+- Focus: Katakana Sokuon - Small ッ (next)
 
 ## Kana
 
@@ -21,7 +21,7 @@
 
 - [x] Basic katakana
 - [x] Dakuten / handakuten
-- [ ] Small ャ ュ ョ
+- [x] Small ャ ュ ョ
 - [ ] Small ッ
 - [ ] ン
 
