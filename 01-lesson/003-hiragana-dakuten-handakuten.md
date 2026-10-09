@@ -1,4 +1,4 @@
-# Lesson 003 - Dakuten & Handakuten
+# Lesson 003 - Hiragana Dakuten & Handakuten
 
 ## 1. What I learned
 

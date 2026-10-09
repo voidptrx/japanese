@@ -1,4 +1,4 @@
-# Lesson 007 - Long Vowels (Chouon)
+# Lesson 007 - Hiragana Long Vowels (Chouon)
 
 ## 1. What I learned
 

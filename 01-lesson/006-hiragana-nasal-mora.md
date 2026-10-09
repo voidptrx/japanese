@@ -1,4 +1,4 @@
-# Lesson 006 - Nasal Mora (ん)
+# Lesson 006 - Hiragana Nasal Mora (ん)
 
 ## 1. What I learned
 

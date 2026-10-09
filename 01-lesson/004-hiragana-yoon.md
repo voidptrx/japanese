@@ -1,4 +1,4 @@
-# Lesson 004 - Yoon (Small ゃ / ゅ / ょ)
+# Lesson 004 - Hiragana Yoon (Small ゃ / ゅ / ょ)
 
 ## 1. What I learned
 

@@ -1,4 +1,4 @@
-# Lesson 005 - Sokuon (Small っ)
+# Lesson 005 - Hiragana Sokuon (Small っ)
 
 ## 1. What I learned
 
