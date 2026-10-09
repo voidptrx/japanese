@@ -54,3 +54,17 @@
 | りょこう   | 旅行                | travel / trip                                   |
 | びょういん | 病院                | hospital                                        |
 | みずいろ   | 水色                | light blue                                      |
+
+## Lesson 008 - Katakana Foundations
+
+| Katakana | Meaning        |
+| -------- | -------------- |
+| テスト   | test, exam     |
+| テキスト | text, textbook |
+| テニス   | tennis         |
+| マスク   | mask           |
+| ホテル   | hotel          |
+| カメラ   | camera         |
+| トマト   | tomato         |
+| ネクタイ | necktie        |
+| アイス   | ice cream      |

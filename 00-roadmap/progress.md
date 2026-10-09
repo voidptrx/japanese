@@ -1,5 +1,11 @@
 # Progress
 
+## Current
+
+- Level: Japanese 0 - N5 foundations
+- Lesson: 008 - Katakana Foundations (completed)
+- Focus: Katakana dakuten / handakuten (next)
+
 ## Kana
 
 ### Hiragana
@@ -13,7 +19,7 @@
 
 ### Katakana
 
-- [ ] Basic katakana
+- [x] Basic katakana
 - [ ] Dakuten / handakuten
 - [ ] Small ャ ュ ョ
 - [ ] Small ッ

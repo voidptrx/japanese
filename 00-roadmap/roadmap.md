@@ -53,7 +53,7 @@ Read Japanese kana without relying on romaji.
 
 ## Katakana
 
-- [ ] Basic katakana
+- [x] Basic katakana
 - [ ] Dakuten / handakuten
 - [ ] Small ャ / ュ / ョ
 - [ ] Small ッ
