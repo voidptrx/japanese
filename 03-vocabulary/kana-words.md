@@ -68,3 +68,17 @@
 | トマト   | tomato         |
 | ネクタイ | necktie        |
 | アイス   | ice cream      |
+
+## Lesson 009 - Katakana Dakuten & Handakuten
+
+| Katakana | Meaning  |
+| -------- | -------- |
+| バス     | bus      |
+| ドア     | door     |
+| ラジオ   | radio    |
+| ビデオ   | video    |
+| ズボン   | trousers |
+| ガラス   | glass    |
+| ボタン   | button   |
+| ポスト   | postbox  |
+| ピザ     | pizza    |
