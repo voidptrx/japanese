@@ -7,7 +7,7 @@
 - I understand these as transformations of existing kana rows rather than completely separate patterns.
 - I can recognize dakuten and handakuten kana individually and inside words.
 
-# 2. Dakuten
+## 2. Dakuten
 
 Dakuten is the mark `゛`. It changes the sound of certain kana.
 
