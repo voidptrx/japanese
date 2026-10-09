@@ -95,3 +95,17 @@
 | チャイム   | chime, bell          |
 | マニュアル | manual, instructions |
 | ニュアンス | nuance               |
+
+## Lesson 011 - Katakana Sokuon
+
+| Katakana   | Meaning             |
+| ---------- | ------------------- |
+| カップ     | cup                 |
+| コップ     | drinking glass, cup |
+| バッグ     | bag                 |
+| ベッド     | bed                 |
+| チケット   | ticket              |
+| ジャケット | jacket              |
+| ロケット   | rocket              |
+| キャップ   | cap                 |
+| セット     | set                 |

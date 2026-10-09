@@ -56,7 +56,7 @@ Read Japanese kana without relying on romaji.
 - [x] Basic katakana
 - [x] Dakuten / handakuten
 - [x] Small ャ / ュ / ョ
-- [ ] Small ッ
+- [x] Small ッ
 - [ ] ン
 - [ ] Long sounds
 - [ ] Common foreign-word patterns

@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 010 - Katakana Yoon (completed)
-- Focus: Katakana Sokuon - Small ッ (next)
+- Lesson: 011 - Katakana Sokuon (completed)
+- Focus: Katakana Nasal Mora - ン (next)
 
 ## Kana
 
@@ -22,7 +22,7 @@
 - [x] Basic katakana
 - [x] Dakuten / handakuten
 - [x] Small ャ ュ ョ
-- [ ] Small ッ
+- [x] Small ッ
 - [ ] ン
 
 ## Grammar
