@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 013 - Katakana Long Sounds (completed)
-- Focus: Katakana Foreign-Word Patterns (next)
+- Lesson: 013 - Katakana Foreign-Word Patterns (completed)
+- Focus: Hiragana & Katakana comprehensive review (next)
 
 ## Kana
 
@@ -25,6 +25,7 @@
 - [x] Small ッ
 - [x] ン
 - [x] Long sounds
+- [x] Common foreign-word patterns
 
 ## Grammar
 

@@ -135,3 +135,18 @@
 | ジュース | juice       |
 | クッキー | cookie      |
 | カーテン | curtain     |
+
+## Lesson 014 - Katakana Foreign-Word Patterns
+
+| Katakana     | Meaning |
+| ------------ | ------- |
+| ファイル     | file    |
+| フィルム     | film    |
+| フェリー     | ferry   |
+| フォーク     | fork    |
+| パーティー   | party   |
+| ディスク     | disk    |
+| チェック     | check   |
+| ティッシュ   | tissue  |
+| ファッション | fashion |
+| シェア       | sharing |
