@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 011 - Katakana Sokuon (completed)
-- Focus: Katakana Nasal Mora - ン (next)
+- Lesson: 012 - Katakana Nasal Mora (completed)
+- Focus: Katakana Long Sounds - ー (next)
 
 ## Kana
 
@@ -23,7 +23,7 @@
 - [x] Dakuten / handakuten
 - [x] Small ャ ュ ョ
 - [x] Small ッ
-- [ ] ン
+- [x] ン
 
 ## Grammar
 

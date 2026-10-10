@@ -109,3 +109,16 @@
 | ロケット   | rocket              |
 | キャップ   | cap                 |
 | セット     | set                 |
+
+## Lesson 012 - Katakana Nasal Mora
+
+| Katakana   | Meaning                         |
+| ---------- | ------------------------------- |
+| パン       | bread                           |
+| ペン       | pen                             |
+| コンビニ   | convenience store               |
+| サイン     | signature, sign                 |
+| チャンネル | channel                         |
+| マンション | apartment building, condominium |
+| コンセント | electrical outlet               |
+| トンネル   | tunnel                          |
