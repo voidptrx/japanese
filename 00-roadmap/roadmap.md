@@ -58,7 +58,7 @@ Read Japanese kana without relying on romaji.
 - [x] Small ャ / ュ / ョ
 - [x] Small ッ
 - [x] ン
-- [ ] Long sounds
+- [x] Long sounds
 - [ ] Common foreign-word patterns
 
 ### Milestone

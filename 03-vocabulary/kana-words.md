@@ -122,3 +122,16 @@
 | マンション | apartment building, condominium |
 | コンセント | electrical outlet               |
 | トンネル   | tunnel                          |
+
+## Lesson 013 - Katakana Long Sounds
+
+| Katakana | Meaning     |
+| -------- | ----------- |
+| コーヒー | coffee      |
+| ケーキ   | cake        |
+| スーパー | supermarket |
+| ゲーム   | game        |
+| ビール   | beer        |
+| ジュース | juice       |
+| クッキー | cookie      |
+| カーテン | curtain     |

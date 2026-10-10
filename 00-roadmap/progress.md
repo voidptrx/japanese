@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 012 - Katakana Nasal Mora (completed)
-- Focus: Katakana Long Sounds - ー (next)
+- Lesson: 013 - Katakana Long Sounds (completed)
+- Focus: Katakana Foreign-Word Patterns (next)
 
 ## Kana
 
@@ -24,6 +24,7 @@
 - [x] Small ャ ュ ョ
 - [x] Small ッ
 - [x] ン
+- [x] Long sounds
 
 ## Grammar
 
