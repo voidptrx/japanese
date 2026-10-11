@@ -63,7 +63,7 @@ Read Japanese kana without relying on romaji.
 
 ### Milestone
 
-- [ ] Read basic Japanese words without romaji
+- [x] Read basic Japanese words without romaji
 
 ---
 

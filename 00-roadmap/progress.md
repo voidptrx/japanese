@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 013 - Katakana Foreign-Word Patterns (completed)
-- Focus: Hiragana & Katakana comprehensive review (next)
+- Lesson: 014 - Katakana Foreign-Word Patterns (completed)
+- Focus: Phase 2 - Basic Sentence Structure (next)
 
 ## Kana
 
