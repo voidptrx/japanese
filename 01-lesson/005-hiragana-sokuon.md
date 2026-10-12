@@ -6,7 +6,7 @@
 - I understand how small `っ` affects Japanese pronunciation.
 - I learned how sokuon is represented in romaji.
 - I can count mora in words containing sokuon.
-- I can read words conatining both sokuon and yoon.
+- I can read words containing both sokuon and yoon.
 
 ## 2. What is Sokuon?
 

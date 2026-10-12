@@ -34,7 +34,7 @@
 | しんぶん | 新聞  | newspaper        |
 | かんじ   | 漢字  | kanji characters |
 | にほん   | 日本  | Japan            |
-| i ほんや | 本屋  | bookstore        |
+| ほんや   | 本屋  | bookstore        |
 
 ## Lesson 007 - Long Vowels
 

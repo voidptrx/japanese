@@ -38,6 +38,14 @@ The vowel pattern stays the same. The consonant changes from `k` to `g`.
 > `ぢ` is read as `ji`.
 > `づ` is read as `zu`.
 
+### The `は` row
+
+| ば  | び  | ぶ  | べ  | ぼ  |
+| :-: | :-: | :-: | :-: | :-: |
+| ba  | bi  | bu  | be  | bo  |
+
+Dakuten changes the consonant from `h` to `b`.
+
 ## 3. Handakuten
 
 Handakuten is a small circle `゜`. It is used with the `は` row.
@@ -60,4 +68,4 @@ The basic patterns learned in this lesson are:
 - h -> b
 - h -> p
 
-The vowel pattern `a-i-u-e-o` remains consistent withing each row.
+The vowel pattern `a-i-u-e-o` remains consistent within each row.

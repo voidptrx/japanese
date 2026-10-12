@@ -123,7 +123,7 @@ Visual differences:
 - ニ = ni
 - ナ = na
 
-## 6. Important Concepts
+## 5. Important Concepts
 
 - Katakana does not introduce a new sound system.
 - Basic katakana follow the same mora rules as hiragana.

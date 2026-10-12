@@ -74,7 +74,7 @@ ka ki ku ke ko
 
 | は  | ひ  | ふ  | へ  | ほ  |
 | :-: | :-: | :-: | :-: | :-: |
-| ha  | hi  | hu  | he  | ho  |
+| ha  | hi  | fu  | he  | ho  |
 
 `ふ` is pronounced `fu`.
 
@@ -106,7 +106,7 @@ Its grammatical use will be learned later when we study particles.
 
 ## 13. `ん` character
 
-`ん` is differnet from most basic hiragana because it represents a consonant sound.  
+`ん` is different from most basic hiragana because it represents a consonant sound.  
 It normally represents one mora.
 
 For example:

@@ -3,9 +3,9 @@
 ## 1. What I learned
 
 - I learned that vowel length can change the meaning of a Japanese word.
-- I understand that a long vowerl occupies two mora.
-- I learned common long-vowerl spelling patterns in hiragana.
-- I can count mora in words conatining long vowerls, yoon, sokuon and ん.
+- I understand that a long vowel occupies two mora.
+- I learned common long-vowels spelling patterns in hiragana.
+- I can count mora in words containing long vowels, yoon, sokuon and ん.
 
 ## 2. What are Long Vowels?
 

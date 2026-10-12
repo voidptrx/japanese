@@ -5,7 +5,7 @@
 - I learned how small ゃ, ゅ and ょ combine with other hiragana.
 - I understand the difference between small and full-sized kana.
 - I Learned how yoon combinations affect mora counting.
-  I can recognize basic yoon conbinations, including dakuten and handakuten forms.
+- I can recognize basic yoon combinations, including dakuten and handakuten forms.
 
 ## 2. What is Yoon?
 
@@ -41,7 +41,7 @@ Small ゃ / ゅ / ょ changes the reading and mora count.
 | み   | みゃ (mya) | みゅ (myu) | みょ (myo) |
 | り   | りゃ (rya) | りゅ (ryu) | りょ (ryo) |
 
-> [!IMPORTANTANT]
+> [!IMPORTANT]
 > しゃ = sha, not shya  
 > ちゃ = cha, not chya
 

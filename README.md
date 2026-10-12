@@ -21,4 +21,4 @@ My journey from Japanese 0 → JLPT N5 → N1.
 
 ## Current level
 
-N5 — Beginner
+Pre-N5 - Beginner (working toward JLPT N5)
