@@ -1,6 +1,6 @@
 # 日本語 — Japanese 0 → N5 Roadmap
 
-## 🎯 Main Goal
+## Main Goal
 
 Build a solid Japanese foundation from zero and reach JLPT N5 level.
 
@@ -17,7 +17,7 @@ The goal is not only to pass JLPT N5, but to actually understand and use basic J
 - Record mistakes and review them.
 - Prefer active recall over passive rereading.
 - Reduce reliance on romaji as early as possible.
-- Practice vocabulary, reading and listening alonside grammar.
+- Practice vocabulary, reading and listening alongside grammar.
 
 ---
 
@@ -79,7 +79,7 @@ Understand and produce simple Japanese sentences.
 - [ ] Noun + です
 - [ ] Noun + ではありません
 - [ ] Question sentences
-- [ ] は
+- [x] は
 - [ ] が
 - [ ] を
 - [ ] に
