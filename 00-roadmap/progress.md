@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 014 - Katakana Foreign-Word Patterns (completed)
-- Focus: Phase 2 - Basic Sentence Structure (next)
+- Lesson: 015 - Japanese Sentence Structure (completed)
+- Focus: 016 - Topic Particle は (next)
 
 ## Kana
 
@@ -29,7 +29,7 @@
 
 ## Grammar
 
-- [ ] Japanese sentence structure
+- [x] Japanese sentence structure
 - [ ] は
 - [ ] が
 - [ ] を

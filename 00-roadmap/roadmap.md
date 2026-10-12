@@ -17,6 +17,7 @@ The goal is not only to pass JLPT N5, but to actually understand and use basic J
 - Record mistakes and review them.
 - Prefer active recall over passive rereading.
 - Reduce reliance on romaji as early as possible.
+- Practice vocabulary, reading and listening alonside grammar.
 
 ---
 
@@ -26,13 +27,13 @@ The goal is not only to pass JLPT N5, but to actually understand and use basic J
 
 Understand how Japanese works before learning large amounts of vocabulary or grammar.
 
-- [ ] Understand Japanese basic sentence structure
-- [ ] Understand the concept of the predicate
-- [ ] Understand Japanese word order
-- [ ] Understand omitted subjects
-- [ ] Understand the relationship between Japanese and Turkish sentence structure
-- [ ] Learn basic Japanese pronunciation
-- [ ] Learn the Japanese mora system
+- [x] Understand Japanese basic sentence structure
+- [x] Understand the concept of the predicate
+- [x] Understand Japanese word order
+- [x] Understand omitted subjects
+- [x] Understand the relationship between Japanese and Turkish sentence structure
+- [x] Learn basic Japanese pronunciation
+- [x] Learn the Japanese mora system
 
 ---
 
@@ -474,7 +475,7 @@ Recognition is not enough.
 
 Turn mistakes into learning material.
 
-- [ ] Keep a mistake log
+- [ ] Track recurring mistakes in progress.md when necessary
 - [ ] Review difficult grammar
 - [ ] Review difficult vocabulary
 - [ ] Review difficult kanji
