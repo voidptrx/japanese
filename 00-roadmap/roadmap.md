@@ -80,7 +80,7 @@ Understand and produce simple Japanese sentences.
 - [ ] Noun + ではありません
 - [ ] Question sentences
 - [x] は
-- [ ] が
+- [x] が
 - [ ] を
 - [ ] に
 - [ ] で
