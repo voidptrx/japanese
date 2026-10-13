@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 017 - Subject Particle が (completed)
-- Focus: 018 - Object Particle を (next)
+- Lesson: 018 - Object Particle を (completed)
+- Focus: 019 - Particle に (next)
 
 ## Kana
 
@@ -32,7 +32,7 @@
 - [x] Japanese sentence structure
 - [x] は
 - [x] が
-- [ ] を
+- [x] を
 - [ ] に
 - [ ] で
 - [ ] の

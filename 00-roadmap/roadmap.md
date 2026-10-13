@@ -81,7 +81,7 @@ Understand and produce simple Japanese sentences.
 - [ ] Question sentences
 - [x] は
 - [x] が
-- [ ] を
+- [x] を
 - [ ] に
 - [ ] で
 - [ ] の

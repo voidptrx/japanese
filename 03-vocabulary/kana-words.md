@@ -150,3 +150,38 @@
 | ティッシュ   | tissue  |
 | ファッション | fashion |
 | シェア       | sharing |
+
+## Lesson 015 - Japanese Sentence Structure
+
+| Hiragana | Kanji    | Meaning        |
+| -------- | -------- | -------------- |
+| わたし   | 私       | I, me          |
+| がくせい | 学生     | student        |
+| みず     | 水       | water          |
+| のみます | 飲みます | drink (polite) |
+| たべます | 食べます | eat (polite)   |
+| よみます | 読みます | read (polite)  |
+
+## Lesson 016 - Topic Particle は
+
+| Hiragana   | Kanji  | Meaning              |
+| ---------- | ------ | -------------------- |
+| この       | —      | this (before a noun) |
+| おもしろい | 面白い | interesting          |
+| あつい     | 暑い   | hot (weather)        |
+| さむい     | 寒い   | cold (weather)       |
+| ねこ       | 猫     | cat                  |
+| かわいい   | 可愛い | cute                 |
+
+## Lesson 017 - Subject Particle が
+
+| Hiragana | Kanji    | Meaning                        |
+| -------- | -------- | ------------------------------ |
+| さくら   | 桜       | Sakura (name); cherry blossom  |
+| だれ     | 誰       | who                            |
+| きます   | 来ます   | come (polite)                  |
+| げんき   | 元気     | healthy, well, energetic       |
+| あめ     | 雨       | rain                           |
+| ふります | 降ります | fall (rain or snow), polite    |
+| います   | —        | exist, be (people and animals) |
+| あります | —        | exist, be (inanimate things)   |
