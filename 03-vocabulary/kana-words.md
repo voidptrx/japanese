@@ -185,3 +185,17 @@
 | ふります | 降ります | fall (rain or snow), polite    |
 | います   | —        | exist, be (people and animals) |
 | あります | —        | exist, be (inanimate things)   |
+
+## Lesson 019 - Particle に
+
+| Hiragana   | Kanji    | Meaning                  |
+| ---------- | -------- | ------------------------ |
+| こうえん   | 公園     | park                     |
+| へや       | 部屋     | room                     |
+| うち       | 家       | home                     |
+| いきます   | 行きます | go (polite)              |
+| かえります | 帰ります | return, go home (polite) |
+| おきます   | 起きます | wake up, get up (polite) |
+| あげます   | —        | give (polite)            |
+| あした     | 明日     | tomorrow                 |
+| はちじ     | 八時     | eight o'clock            |
