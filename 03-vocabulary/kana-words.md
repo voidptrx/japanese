@@ -199,3 +199,12 @@
 | あげます   | —        | give (polite)            |
 | あした     | 明日     | tomorrow                 |
 | はちじ     | 八時     | eight o'clock            |
+
+## Lesson 020 - Particle で
+
+| Hiragana   | Kanji    | Meaning           |
+| ---------- | -------- | ----------------- |
+| なまえ     | 名前     | name              |
+| かきます   | 書きます | write (polite)    |
+| にほんご   | 日本語   | Japanese language |
+| はなします | 話します | speak (polite)    |
