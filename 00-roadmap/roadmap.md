@@ -85,7 +85,7 @@ Understand and produce simple Japanese sentences.
 - [x] に
 - [x] で
 - [x] の
-- [ ] も
+- [x] も
 - [ ] と
 - [ ] へ
 - [ ] から
