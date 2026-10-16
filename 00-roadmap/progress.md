@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 022 - Particle も (completed)
-- Focus: 023 - Particle と (next)
+- Lesson: 023 - Particle と (completed)
+- Focus: 024 - Particle へ (next)
 
 ## Kana
 
@@ -37,6 +37,7 @@
 - [x] で
 - [x] の
 - [x] も
+- [x] と
 - [ ] です
 - [ ] ます
 
