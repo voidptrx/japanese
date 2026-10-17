@@ -88,7 +88,7 @@ Understand and produce simple Japanese sentences.
 - [x] も
 - [x] と
 - [x] へ
-- [ ] から
+- [x] から
 - [ ] まで
 
 ## Demonstratives
