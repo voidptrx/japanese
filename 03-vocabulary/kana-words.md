@@ -1,12 +1,12 @@
 # Japanese Vocabulary
 
-**Active: 101 words · Later: 49 words · Total: 150 entries**
+**Active: 102 words · Later: 49 words · Total: 151 entries**
 
 - Study the active groups in order: **01 → 02 → 03**. Anki: **7 new cards per day**, after due reviews.
 - Kanji is optional. Verb entries use the familiar polite non-past forms.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (101)
+## Active (102)
 
 ### 01 — Grammar and core words (40)
 
@@ -53,7 +53,7 @@
 | パン       | —        | bread                                             | 012    |
 | コーヒー   | —        | coffee                                            | 013    |
 
-### 02 — Everyday words (21)
+### 02 — Everyday words (22)
 
 | Kana             | Kanji      | English                              | Source     |
 | ---------------- | ---------- | ------------------------------------ | ---------- |
@@ -78,6 +78,7 @@
 | ききます         | 聞きます   | listen; hear (polite)                | Supplement |
 | べんきょうします | 勉強します | study (polite)                       | Supplement |
 | りんご           | 林檎       | apple                                | 023        |
+| くじ             | 九時       | nine o'clock                         | 026        |
 
 ### 03 — Kana review words (40)
 

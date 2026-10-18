@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 025 - Particle から (completed)
-- Focus: 026 - Particle まで (next)
+- Lesson: 026 - Particle まで (completed)
+- Focus: 027 - Noun Sentences with です (next)
 
 ## Kana
 
@@ -40,6 +40,7 @@
 - [x] と
 - [x] へ
 - [x] から
+- [x] まで
 - [ ] です
 - [ ] ます
 
