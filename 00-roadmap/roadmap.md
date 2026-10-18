@@ -76,7 +76,7 @@ Understand and produce simple Japanese sentences.
 
 ## Core structures
 
-- [ ] Noun + です
+- [x] Noun + です
 - [ ] Noun + ではありません
 - [ ] Question sentences
 - [x] は
@@ -116,7 +116,7 @@ Understand and produce simple Japanese sentences.
 ### Milestone
 
 - [ ] Analyze basic Japanese sentences structurally
-- [ ] Produce basic noun sentences
+- [x] Produce basic noun sentences
 
 ---
 
