@@ -66,5 +66,6 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 026 | [Particle まで](02-grammar/particles/026-particle-made.md)                                                      |
 | 027 | [Noun Sentences with です](02-grammar/sentence-patterns/027-noun-sentences-desu.md)                             |
 | 028 | [Negative Noun Sentences with ではありません](02-grammar/sentence-patterns/028-noun-sentences-dewa-arimasen.md) |
+| 029 | [Question Sentences with か](02-grammar/sentence-patterns/029-question-sentences-ka.md)                         |
 
 </details>
