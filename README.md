@@ -50,20 +50,21 @@ Pre-N5 - Beginner (working toward JLPT N5)
 <details>
 <summary>Grammar</summary>
 
-| No. | Lesson                                                                                         |
-| --- | ---------------------------------------------------------------------------------------------- |
-| 015 | [Japanese Sentence Structure](02-grammar/sentence-patterns/015-japanese-sentence-structure.md) |
-| 016 | [Topic Particle は](02-grammar/particles/016-topic-particle-wa.md)                             |
-| 017 | [Subject Particle が](02-grammar/particles/017-subject-particle-ga.md)                         |
-| 018 | [Object Particle を](02-grammar/particles/018-object-particle-wo.md)                           |
-| 019 | [Particle に](02-grammar/particles/019-particle-ni.md)                                         |
-| 020 | [Particle で](02-grammar/particles/020-particle-de.md)                                         |
-| 021 | [Particle の](02-grammar/particles/021-particle-no.md)                                         |
-| 022 | [Particle も](02-grammar/particles/022-particle-mo.md)                                         |
-| 023 | [Particle と](02-grammar/particles/023-particle-to.md)                                         |
-| 024 | [Particle へ](02-grammar/particles/024-particle-he.md)                                         |
-| 025 | [Particle から](02-grammar/particles/025-particle-kara.md)                                     |
-| 026 | [Particle まで](02-grammar/particles/026-particle-made.md)                                     |
-| 027 | [Noun Sentences with です](02-grammar/sentence-patterns/027-noun-sentences-desu.md)            |
+| No. | Lesson                                                                                                          |
+| --- | --------------------------------------------------------------------------------------------------------------- |
+| 015 | [Japanese Sentence Structure](02-grammar/sentence-patterns/015-japanese-sentence-structure.md)                  |
+| 016 | [Topic Particle は](02-grammar/particles/016-topic-particle-wa.md)                                              |
+| 017 | [Subject Particle が](02-grammar/particles/017-subject-particle-ga.md)                                          |
+| 018 | [Object Particle を](02-grammar/particles/018-object-particle-wo.md)                                            |
+| 019 | [Particle に](02-grammar/particles/019-particle-ni.md)                                                          |
+| 020 | [Particle で](02-grammar/particles/020-particle-de.md)                                                          |
+| 021 | [Particle の](02-grammar/particles/021-particle-no.md)                                                          |
+| 022 | [Particle も](02-grammar/particles/022-particle-mo.md)                                                          |
+| 023 | [Particle と](02-grammar/particles/023-particle-to.md)                                                          |
+| 024 | [Particle へ](02-grammar/particles/024-particle-he.md)                                                          |
+| 025 | [Particle から](02-grammar/particles/025-particle-kara.md)                                                      |
+| 026 | [Particle まで](02-grammar/particles/026-particle-made.md)                                                      |
+| 027 | [Noun Sentences with です](02-grammar/sentence-patterns/027-noun-sentences-desu.md)                             |
+| 028 | [Negative Noun Sentences with ではありません](02-grammar/sentence-patterns/028-noun-sentences-dewa-arimasen.md) |
 
 </details>

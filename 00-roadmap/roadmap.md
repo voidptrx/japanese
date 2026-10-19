@@ -77,7 +77,7 @@ Understand and produce simple Japanese sentences.
 ## Core structures
 
 - [x] Noun + です
-- [ ] Noun + ではありません
+- [x] Noun + ではありません
 - [ ] Question sentences
 - [x] は
 - [x] が

@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 027 - Noun Sentences with です (completed)
-- Focus: 028 - Negative Noun Sentences with ではありません (next)
+- Lesson: 028 - Negative Noun Sentences with ではありません (completed)
+- Focus: 029 - Question Sentences with か (next)
 
 ## Kana
 
@@ -42,6 +42,7 @@
 - [x] から
 - [x] まで
 - [x] です
+- [x] ではありません
 - [ ] ます
 
 ## Vocabulary
