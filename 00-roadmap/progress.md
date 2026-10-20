@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 030 - Demonstratives これ-それ-あれ (completed)
-- Focus: 031 - Demonstratives この-その-あの (next)
+- Lesson: 031 - Demonstratives この・その・あの (completed)
+- Focus: 032 - Demonstratives ここ・そこ・あそこ (next)
 
 ## Kana
 
@@ -47,6 +47,9 @@
 - [x] これ
 - [x] それ
 - [x] あれ
+- [x] この
+- [x] その
+- [x] あの
 - [ ] ます
 
 ## Vocabulary
