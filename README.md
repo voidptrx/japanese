@@ -67,5 +67,6 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 027 | [Noun Sentences with です](02-grammar/sentence-patterns/027-noun-sentences-desu.md)                             |
 | 028 | [Negative Noun Sentences with ではありません](02-grammar/sentence-patterns/028-noun-sentences-dewa-arimasen.md) |
 | 029 | [Question Sentences with か](02-grammar/sentence-patterns/029-question-sentences-ka.md)                         |
+| 030 | [Demonstratives: これ・それ・あれ](02-grammar/demonstratives/030-demonstratives-kore-sore-are.md)               |
 
 </details>

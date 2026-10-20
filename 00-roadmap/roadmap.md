@@ -93,9 +93,9 @@ Understand and produce simple Japanese sentences.
 
 ## Demonstratives
 
-- [ ] これ
-- [ ] それ
-- [ ] あれ
+- [x] これ
+- [x] それ
+- [x] あれ
 - [ ] この
 - [ ] その
 - [ ] あの

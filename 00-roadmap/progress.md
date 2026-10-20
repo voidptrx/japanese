@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 029 - Question Sentences with か (completed)
-- Focus: 030 - Demonstratives これ・それ・あれ (next)
+- Lesson: 030 - Demonstratives これ-それ-あれ (completed)
+- Focus: 031 - Demonstratives この-その-あの (next)
 
 ## Kana
 
@@ -44,6 +44,9 @@
 - [x] です
 - [x] ではありません
 - [x] か
+- [x] これ
+- [x] それ
+- [x] あれ
 - [ ] ます
 
 ## Vocabulary
