@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 031 - Demonstratives この・その・あの (completed)
-- Focus: 032 - Demonstratives ここ・そこ・あそこ (next)
+- Lesson: 032 - Demonstratives ここ・そこ・あそこ (completed)
+- Focus: 033 - Question Word どこ (next)
 
 ## Kana
 
@@ -50,6 +50,9 @@
 - [x] この
 - [x] その
 - [x] あの
+- [x] ここ
+- [x] そこ
+- [x] あそこ
 - [ ] ます
 
 ## Vocabulary

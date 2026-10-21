@@ -69,5 +69,6 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 029 | [Question Sentences with か](02-grammar/sentence-patterns/029-question-sentences-ka.md)                         |
 | 030 | [Demonstratives: これ・それ・あれ](02-grammar/demonstratives/030-demonstratives-kore-sore-are.md)               |
 | 031 | [Demonstratives: この・その・あの](02-grammar/demonstratives/031-demonstratives-kono-sono-ano.md)               |
+| 032 | [Demonstratives: ここ・そこ・あそこ](02-grammar/demonstratives/032-demonstratives-koko-soko-asoko.md)           |
 
 </details>

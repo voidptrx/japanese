@@ -99,9 +99,9 @@ Understand and produce simple Japanese sentences.
 - [x] この
 - [x] その
 - [x] あの
-- [ ] ここ
-- [ ] そこ
-- [ ] あそこ
+- [x] ここ
+- [x] そこ
+- [x] あそこ
 
 ## Question words
 
