@@ -70,5 +70,6 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 030 | [Demonstratives: これ・それ・あれ](02-grammar/demonstratives/030-demonstratives-kore-sore-are.md)               |
 | 031 | [Demonstratives: この・その・あの](02-grammar/demonstratives/031-demonstratives-kono-sono-ano.md)               |
 | 032 | [Demonstratives: ここ・そこ・あそこ](02-grammar/demonstratives/032-demonstratives-koko-soko-asoko.md)           |
+| 033 | [Question Word: どこ](02-grammar/question-words/033-question-word-doko.md)                                      |
 
 </details>
