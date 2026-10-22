@@ -4,7 +4,7 @@
 
 - The meaning and grammatical function of **どこ**.
 - How **どこ** fits into the こ・そ・あ・ど system.
-- How to ask about locations with どこますか.
+- How to ask about locations with どこですか.
 - How **どこ** works with に, で and へ.
 - How to distinguish location, action and destination questions.
 
@@ -48,14 +48,12 @@ The grammatical relationship is determined by the particle and predicate.
 | どこで     | Asks where an action occurs         | どこでほんをよみますか。 |
 | どこへ     | Asks about movement direction       | どこへいきますか。       |
 
-<u>Example:</u>
-
+<ins>Example:</ins>\
 がっこうはどこですか。= Where is the school?
 
 The predicate どこです asks for the school's location.
 
-<u>Example:</u>
-
+<ins>Example:</ins>\
 ねこはどこにいますか。= Where is the cat?\
 ほんはどこにありますか。= Where is the book?
 
@@ -63,13 +61,12 @@ The predicate どこです asks for the school's location.
 
 With movement verbs, に can also mark a destination.
 
-<u>Example:</u>
-
+<ins>Example:</ins>\
 せんせいはどこでほんをよみますか。= Where does the teacher read a book?
 
 で marks the location where an action occurs
 
-<u>Example:</u>
+<ins>Example:</ins>
 
 せんせいはどこへいきますか。= Where is the teacher going?
 
@@ -78,8 +75,7 @@ With movement verbs, に can also mark a destination.
 
 ## 5. Sentence Analysis
 
-<u>Example:</u>
-
+<ins>Example:</ins>\
 せんせいはどこでにほんごをべんきょうしますか。= Where does the teacher study Japanese?
 
 | Component        | Function                   |
