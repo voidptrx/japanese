@@ -105,7 +105,7 @@ Understand and produce simple Japanese sentences.
 
 ## Question words
 
-- [ ] 何
+- [x] 何
 - [ ] 誰
 - [x] どこ
 - [ ] いつ

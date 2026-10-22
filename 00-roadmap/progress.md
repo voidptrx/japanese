@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 033 - Question Word どこ (completed)
-- Focus: 034 - Question Word 何 (next)
+- Lesson: 034 - Question Word 何（なに・なん） (completed)
+- Focus: 035 - Question Word 誰 (next)
 
 ## Kana
 
@@ -54,6 +54,7 @@
 - [x] そこ
 - [x] あそこ
 - [x] どこ
+- [x] 何（なに・なん）
 - [ ] ます
 
 ## Vocabulary
