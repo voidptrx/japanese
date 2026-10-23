@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 035 - Question Word 誰（だれ） (completed)
-- Focus: 036 - Question Word いつ (next)
+- Lesson: 036 - Question Word いつ (completed)
+- Focus: 037 - Question Word いくら (next)
 
 ## Kana
 
@@ -56,6 +56,7 @@
 - [x] どこ
 - [x] 何（なに・なん）
 - [x] 誰
+- [x] いつ
 - [ ] ます
 
 ## Vocabulary

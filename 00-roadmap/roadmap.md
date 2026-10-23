@@ -108,7 +108,7 @@ Understand and produce simple Japanese sentences.
 - [x] 何
 - [x] 誰
 - [x] どこ
-- [ ] いつ
+- [x] いつ
 - [ ] いくら
 - [ ] どの
 - [ ] どれ
