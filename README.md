@@ -72,5 +72,6 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 032 | [Demonstratives: ここ・そこ・あそこ](02-grammar/demonstratives/032-demonstratives-koko-soko-asoko.md)           |
 | 033 | [Question Word: どこ](02-grammar/question-words/033-question-word-doko.md)                                      |
 | 034 | [Question Word: 何（なに・なん）](02-grammar/question-words/034-question-word-nani-nan.md)                      |
+| 035 | [Question Word: 誰（だれ）](02-grammar/question-words/035-question-word-dare.md)                                |
 
 </details>
