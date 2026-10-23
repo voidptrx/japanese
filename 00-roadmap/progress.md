@@ -30,34 +30,15 @@
 ## Grammar
 
 - [x] Japanese sentence structure
-- [x] は
-- [x] が
-- [x] を
-- [x] に
-- [x] で
-- [x] の
-- [x] も
-- [x] と
-- [x] へ
-- [x] から
-- [x] まで
-- [x] です
-- [x] ではありません
-- [x] か
-- [x] これ
-- [x] それ
-- [x] あれ
-- [x] この
-- [x] その
-- [x] あの
-- [x] ここ
-- [x] そこ
-- [x] あそこ
-- [x] どこ
-- [x] 何（なに・なん）
-- [x] 誰
-- [x] いつ
-- [ ] ます
+- [x] Particles: は・が・を・に・で・の・も・と・へ・から・まで
+- [x] Noun sentences: です・ではありません
+- [x] Questions: か
+- [x] Demonstratives:
+  - これ・それ・あれ
+  - この・その・あの
+  - ここ・そこ・あそこ
+- [x] Question words: どこ・何・誰・いつ
+- [ ] Verb conjugations: ます
 
 ## Vocabulary
 
