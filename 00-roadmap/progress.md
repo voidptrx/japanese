@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 038 - Question Word どの (completed)
-- Focus: 039 - Question Word どれ (next)
+- Lesson: 039 - Question Word どれ (completed)
+- Focus: 040 - Introduction to Kanji (next)
 
 ## Kana
 
@@ -37,7 +37,7 @@
   - これ・それ・あれ
   - この・その・あの
   - ここ・そこ・あそこ
-- [x] Question words: どこ・何・誰・いつ・いくら・どの
+- [x] Question words: どこ・何・誰・いつ・いくら・どの・どれ
 - [ ] Verb conjugations: ます
 
 ## Vocabulary

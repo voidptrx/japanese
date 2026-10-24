@@ -111,7 +111,7 @@ Understand and produce simple Japanese sentences.
 - [x] いつ
 - [x] いくら
 - [x] どの
-- [ ] どれ
+- [x] どれ
 
 ### Milestone
 

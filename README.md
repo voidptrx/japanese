@@ -76,5 +76,6 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 036 | [Question Word: いつ](02-grammar/question-words/036-question-word-itsu.md)                                      |
 | 037 | [Question Word: いくら](02-grammar/question-words/037-question-word-ikura.md)                                   |
 | 038 | [Question Word: どの](02-grammar/question-words/038-question-word-dono.md)                                      |
+| 039 | [Question Word: どれ](02-grammar/question-words/039-question-word-dore.md)                                      |
 
 </details>

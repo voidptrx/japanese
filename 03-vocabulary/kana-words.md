@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use the familiar polite non-past forms.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (109)
+## Active (110)
 
-### 01 — Grammar and core words (45)
+### 01 — Grammar and core words (46)
 
 | Kana       | Kanji    | English                                           | Source |
 | ---------- | -------- | ------------------------------------------------- | ------ |
@@ -55,6 +55,7 @@
 | いくら     | —        | how much; how much money                          | 037    |
 | えん       | 円       | yen (Japanese currency)                           | 037    |
 | どの       | —        | which ... (must precede a noun)                   | 038    |
+| どれ       | —        | which one (independent)                           | 039    |
 
 ### 02 — Everyday words (24)
 
