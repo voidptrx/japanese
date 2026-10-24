@@ -109,7 +109,7 @@ Understand and produce simple Japanese sentences.
 - [x] 誰
 - [x] どこ
 - [x] いつ
-- [ ] いくら
+- [x] いくら
 - [ ] どの
 - [ ] どれ
 

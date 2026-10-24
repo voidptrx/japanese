@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use the familiar polite non-past forms.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (106)
+## Active (108)
 
-### 01 — Grammar and core words (42)
+### 01 — Grammar and core words (44)
 
 | Kana       | Kanji    | English                                           | Source |
 | ---------- | -------- | ------------------------------------------------- | ------ |
@@ -52,6 +52,8 @@
 | コーヒー   | —        | coffee                                            | 013    |
 | なに       | 何       | what (also read なん in certain constructions)    | 034    |
 | いつ       | —        | when                                              | 036    |
+| いくら     | —        | how much; how much money                          | 037    |
+| えん       | 円       | yen (Japanese currency)                           | 037    |
 
 ### 02 — Everyday words (24)
 
