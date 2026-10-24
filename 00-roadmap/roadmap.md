@@ -110,7 +110,7 @@ Understand and produce simple Japanese sentences.
 - [x] どこ
 - [x] いつ
 - [x] いくら
-- [ ] どの
+- [x] どの
 - [ ] どれ
 
 ### Milestone
