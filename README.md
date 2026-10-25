@@ -79,3 +79,12 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 039 | [Question Word: どれ](02-grammar/question-words/039-question-word-dore.md)                                      |
 
 </details>
+
+<details>
+<summary>Kanji</summary>
+
+| No. | Lesson                                                         |
+| --- | -------------------------------------------------------------- |
+| 040 | [Introduction to Kanji](04-kanji/040-introduction-to-kanji.md) |
+
+</details>

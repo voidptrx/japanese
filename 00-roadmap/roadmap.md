@@ -368,6 +368,15 @@ Build a useful beginner kanji foundation.
 
 Approximately 80–100 basic kanji.
 
+### Learning Progress
+
+- [x] Lesson 040 — Introduction to Kanji
+- [x] Understand On'yomi and Kun'yomi
+- [x] Learn basic stroke-order principles
+- [x] Understand okurigana
+- [x] Study first five kanji: 日・本・人・学・校
+- [ ] Integrate kanji into grammar and vocabulary lessons
+
 ### Milestones
 
 - [ ] 25 kanji

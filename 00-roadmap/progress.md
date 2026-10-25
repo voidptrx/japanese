@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 039 - Question Word どれ (completed)
-- Focus: 040 - Introduction to Kanji (next)
+- Lesson: 040 - Introduction to Kanji (completed)
+- Focus: 041 - Integrated Grammar and Kanji (next)
 
 ## Kana
 
@@ -50,6 +50,11 @@
 
 ## Kanji
 
+- [x] Introduction to kanji
+- [x] Understand On'yomi and Kun'yomi
+- [x] Understand basic stroke order
+- [x] Understand okurigana
+- [x] First five kanji: 日・本・人・学・校
 - [ ] 25
 - [ ] 50
 - [ ] 75
