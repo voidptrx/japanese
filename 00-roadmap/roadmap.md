@@ -128,20 +128,20 @@ Understand Japanese verbs and their basic conjugations.
 
 ## Verb basics
 
-- [ ] Dictionary form
-- [ ] ます form
+- [x] Dictionary form
+- [x] ます form
 - [ ] Negative
 - [ ] Past
 - [ ] Past negative
-- [ ] Verb groups
+- [x] Verb groups
 
 ## Core conjugations
 
-- [ ] ～ます
+- [x] ～ます
 - [ ] ～ません
 - [ ] ～ました
 - [ ] ～ませんでした
-- [ ] Dictionary form
+- [x] Dictionary form
 - [ ] ～ない
 - [ ] ～た
 - [ ] ～て
@@ -168,8 +168,8 @@ Learn common N5 verbs in context.
 ### Milestone
 
 - [ ] Conjugate common N5 verbs
-- [ ] Understand basic verb sentences
-- [ ] Produce simple sentences using verbs
+- [x] Understand basic verb sentences
+- [x] Produce simple sentences using verbs
 
 ---
 

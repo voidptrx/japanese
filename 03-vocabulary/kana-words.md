@@ -1,12 +1,12 @@
 # Japanese Vocabulary
 
 - Study the active groups in order: **01 → 02 → 03**. Anki: **7 new cards per day**, after due reviews.
-- Kanji is optional. Verb entries use the familiar polite non-past forms.
+- Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (112)
+## Active (113)
 
-### 01 — Grammar and core words (48)
+### 01 — Grammar and core words (49)
 
 | Kana       | Kanji    | English                                           | Source |
 | ---------- | -------- | ------------------------------------------------- | ------ |
@@ -14,8 +14,8 @@
 | がくせい   | 学生     | student                                           | 015    |
 | みず       | 水       | water                                             | 015    |
 | のみます   | 飲みます | drink (polite)                                    | 015    |
-| たべます   | 食べます | eat (polite)                                      | 015    |
-| よみます   | 読みます | read (polite)                                     | 015    |
+| たべます   | 食べます | eat (polite); 食べる (Ichidan)                    | 015    |
+| よみます   | 読みます | read (polite); 読む (Godan)                       | 015    |
 | この       | —        | this ... (must precede a noun)                    | 016    |
 | おもしろい | 面白い   | interesting                                       | 016    |
 | あつい     | 暑い     | hot (weather)                                     | 016    |
@@ -23,7 +23,7 @@
 | ねこ       | 猫       | cat                                               | 016    |
 | かわいい   | 可愛い   | cute                                              | 016    |
 | だれ       | 誰       | who                                               | 017    |
-| きます     | 来ます   | come (polite)                                     | 017    |
+| きます     | 来ます   | come (polite); 来る (irregular)                   | 017    |
 | げんき     | 元気     | well; healthy; energetic                          | 017    |
 | あめ       | 雨       | rain                                              | 017    |
 | ふります   | 降ります | fall (rain or snow); polite                       | 017    |
@@ -39,7 +39,7 @@
 | あした     | 明日     | tomorrow                                          | 019    |
 | はちじ     | 八時     | eight o'clock                                     | 019    |
 | なまえ     | 名前     | name                                              | 020    |
-| かきます   | 書きます | write (polite)                                    | 020    |
+| かきます   | 書きます | write (polite); 書く (Godan)                      | 020    |
 | にほんご   | 日本語   | Japanese language                                 | 020    |
 | はなします | 話します | speak (polite)                                    | 020    |
 | ほん       | 本       | book                                              | 006    |
@@ -58,35 +58,36 @@
 | どれ       | —        | which one (independent)                           | 039    |
 | ひと       | 人       | person                                            | 040    |
 | にほんじん | 日本人   | Japanese person                                   | 040    |
+| します     | —        | do (polite); する (irregular)                     | 041    |
 
 ### 02 — Everyday words (24)
 
-| Kana             | Kanji      | English                              | Source     |
-| ---------------- | ---------- | ------------------------------------ | ---------- |
-| ごはん           | ご飯       | cooked rice; meal                    | Supplement |
-| おちゃ           | お茶       | tea, especially Japanese tea         | Supplement |
-| ともだち         | 友達       | friend                               | Supplement |
-| いぬ             | 犬         | dog                                  | Supplement |
-| えき             | 駅         | station; train station               | Supplement |
-| みせ             | 店         | shop; store                          | Supplement |
-| つくえ           | 机         | desk                                 | Supplement |
-| いす             | 椅子       | chair                                | Supplement |
-| いま             | 今         | now                                  | Supplement |
-| いい             | —          | good; nice                           | Supplement |
-| これ             | —          | this (standalone; near the speaker)  | Supplement |
-| それ             | —          | that (standalone; near the listener) | Supplement |
-| あれ             | —          | that over there (away from both)     | Supplement |
-| ここ             | —          | here; this place                     | Supplement |
-| そこ             | —          | there; that place near the listener  | Supplement |
-| あそこ           | —          | over there; a place away from both   | Supplement |
-| どこ             | —          | where; which place                   | Supplement |
-| みます           | 見ます     | see; look at; watch (polite)         | Supplement |
-| ききます         | 聞きます   | listen; hear (polite)                | Supplement |
-| べんきょうします | 勉強します | study (polite)                       | Supplement |
-| りんご           | 林檎       | apple                                | 023        |
-| くじ             | 九時       | nine o'clock                         | 026        |
-| はい             | —          | yes                                  | 029        |
-| いいえ           | —          | no                                   | 029        |
+| Kana             | Kanji      | English                                      | Source     |
+| ---------------- | ---------- | -------------------------------------------- | ---------- |
+| ごはん           | ご飯       | cooked rice; meal                            | Supplement |
+| おちゃ           | お茶       | tea, especially Japanese tea                 | Supplement |
+| ともだち         | 友達       | friend                                       | Supplement |
+| いぬ             | 犬         | dog                                          | Supplement |
+| えき             | 駅         | station; train station                       | Supplement |
+| みせ             | 店         | shop; store                                  | Supplement |
+| つくえ           | 机         | desk                                         | Supplement |
+| いす             | 椅子       | chair                                        | Supplement |
+| いま             | 今         | now                                          | Supplement |
+| いい             | —          | good; nice                                   | Supplement |
+| これ             | —          | this (standalone; near the speaker)          | Supplement |
+| それ             | —          | that (standalone; near the listener)         | Supplement |
+| あれ             | —          | that over there (away from both)             | Supplement |
+| ここ             | —          | here; this place                             | Supplement |
+| そこ             | —          | there; that place near the listener          | Supplement |
+| あそこ           | —          | over there; a place away from both           | Supplement |
+| どこ             | —          | where; which place                           | Supplement |
+| みます           | 見ます     | see; look at; watch (polite); 見る (Ichidan) | Supplement |
+| ききます         | 聞きます   | listen; hear (polite)                        | Supplement |
+| べんきょうします | 勉強します | study (polite)                               | Supplement |
+| りんご           | 林檎       | apple                                        | 023        |
+| くじ             | 九時       | nine o'clock                                 | 026        |
+| はい             | —          | yes                                          | 029        |
+| いいえ           | —          | no                                           | 029        |
 
 ### 03 — Kana review words (40)
 

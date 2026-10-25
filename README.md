@@ -50,33 +50,56 @@ Pre-N5 - Beginner (working toward JLPT N5)
 <details>
 <summary>Grammar</summary>
 
+### Sentence Patterns
+
 | No. | Lesson                                                                                                          |
 | --- | --------------------------------------------------------------------------------------------------------------- |
 | 015 | [Japanese Sentence Structure](02-grammar/sentence-patterns/015-japanese-sentence-structure.md)                  |
-| 016 | [Topic Particle は](02-grammar/particles/016-topic-particle-wa.md)                                              |
-| 017 | [Subject Particle が](02-grammar/particles/017-subject-particle-ga.md)                                          |
-| 018 | [Object Particle を](02-grammar/particles/018-object-particle-wo.md)                                            |
-| 019 | [Particle に](02-grammar/particles/019-particle-ni.md)                                                          |
-| 020 | [Particle で](02-grammar/particles/020-particle-de.md)                                                          |
-| 021 | [Particle の](02-grammar/particles/021-particle-no.md)                                                          |
-| 022 | [Particle も](02-grammar/particles/022-particle-mo.md)                                                          |
-| 023 | [Particle と](02-grammar/particles/023-particle-to.md)                                                          |
-| 024 | [Particle へ](02-grammar/particles/024-particle-he.md)                                                          |
-| 025 | [Particle から](02-grammar/particles/025-particle-kara.md)                                                      |
-| 026 | [Particle まで](02-grammar/particles/026-particle-made.md)                                                      |
 | 027 | [Noun Sentences with です](02-grammar/sentence-patterns/027-noun-sentences-desu.md)                             |
 | 028 | [Negative Noun Sentences with ではありません](02-grammar/sentence-patterns/028-noun-sentences-dewa-arimasen.md) |
 | 029 | [Question Sentences with か](02-grammar/sentence-patterns/029-question-sentences-ka.md)                         |
-| 030 | [Demonstratives: これ・それ・あれ](02-grammar/demonstratives/030-demonstratives-kore-sore-are.md)               |
-| 031 | [Demonstratives: この・その・あの](02-grammar/demonstratives/031-demonstratives-kono-sono-ano.md)               |
-| 032 | [Demonstratives: ここ・そこ・あそこ](02-grammar/demonstratives/032-demonstratives-koko-soko-asoko.md)           |
-| 033 | [Question Word: どこ](02-grammar/question-words/033-question-word-doko.md)                                      |
-| 034 | [Question Word: 何（なに・なん）](02-grammar/question-words/034-question-word-nani-nan.md)                      |
-| 035 | [Question Word: 誰（だれ）](02-grammar/question-words/035-question-word-dare.md)                                |
-| 036 | [Question Word: いつ](02-grammar/question-words/036-question-word-itsu.md)                                      |
-| 037 | [Question Word: いくら](02-grammar/question-words/037-question-word-ikura.md)                                   |
-| 038 | [Question Word: どの](02-grammar/question-words/038-question-word-dono.md)                                      |
-| 039 | [Question Word: どれ](02-grammar/question-words/039-question-word-dore.md)                                      |
+
+### Particles
+
+| No. | Lesson                                                                 |
+| --- | ---------------------------------------------------------------------- |
+| 016 | [Topic Particle は](02-grammar/particles/016-topic-particle-wa.md)     |
+| 017 | [Subject Particle が](02-grammar/particles/017-subject-particle-ga.md) |
+| 018 | [Object Particle を](02-grammar/particles/018-object-particle-wo.md)   |
+| 019 | [Particle に](02-grammar/particles/019-particle-ni.md)                 |
+| 020 | [Particle で](02-grammar/particles/020-particle-de.md)                 |
+| 021 | [Particle の](02-grammar/particles/021-particle-no.md)                 |
+| 022 | [Particle も](02-grammar/particles/022-particle-mo.md)                 |
+| 023 | [Particle と](02-grammar/particles/023-particle-to.md)                 |
+| 024 | [Particle へ](02-grammar/particles/024-particle-he.md)                 |
+| 025 | [Particle から](02-grammar/particles/025-particle-kara.md)             |
+| 026 | [Particle まで](02-grammar/particles/026-particle-made.md)             |
+
+### Demonstratives
+
+| No. | Lesson                                                                                                |
+| --- | ----------------------------------------------------------------------------------------------------- |
+| 030 | [Demonstratives: これ・それ・あれ](02-grammar/demonstratives/030-demonstratives-kore-sore-are.md)     |
+| 031 | [Demonstratives: この・その・あの](02-grammar/demonstratives/031-demonstratives-kono-sono-ano.md)     |
+| 032 | [Demonstratives: ここ・そこ・あそこ](02-grammar/demonstratives/032-demonstratives-koko-soko-asoko.md) |
+
+### Question Words
+
+| No. | Lesson                                                                                     |
+| --- | ------------------------------------------------------------------------------------------ |
+| 033 | [Question Word: どこ](02-grammar/question-words/033-question-word-doko.md)                 |
+| 034 | [Question Word: 何（なに・なん）](02-grammar/question-words/034-question-word-nani-nan.md) |
+| 035 | [Question Word: 誰（だれ）](02-grammar/question-words/035-question-word-dare.md)           |
+| 036 | [Question Word: いつ](02-grammar/question-words/036-question-word-itsu.md)                 |
+| 037 | [Question Word: いくら](02-grammar/question-words/037-question-word-ikura.md)              |
+| 038 | [Question Word: どの](02-grammar/question-words/038-question-word-dono.md)                 |
+| 039 | [Question Word: どれ](02-grammar/question-words/039-question-word-dore.md)                 |
+
+### Verbs
+
+| No. | Lesson                                                                                   |
+| --- | ---------------------------------------------------------------------------------------- |
+| 041 | [Verb Dictionary Form and ます-Form](02-grammar/verbs/041-verb-dictionary-masu-forms.md) |
 
 </details>
 
