@@ -97,11 +97,12 @@ Pre-N5 - Beginner (working toward JLPT N5)
 
 ### Verbs
 
-| No. | Lesson                                                                                     |
-| --- | ------------------------------------------------------------------------------------------ |
-| 041 | [Verb Dictionary Form and ます-Form](02-grammar/verbs/041-verb-dictionary-masu-forms.md)   |
-| 042 | [Polite Negative Verb Form (～ません)](02-grammar/verbs/042-verb-polite-negative-masen.md) |
-| 043 | [Polite Past Verb Form (～ました)](02-grammar/verbs/043-verb-polite-past-mashita.md)       |
+| No. | Lesson                                                                                                             |
+| --- | ------------------------------------------------------------------------------------------------------------------ |
+| 041 | [Verb Dictionary Form and ます-Form](02-grammar/verbs/041-verb-dictionary-masu-forms.md)                           |
+| 042 | [Polite Negative Verb Form (～ません)](02-grammar/verbs/042-verb-polite-negative-masen.md)                         |
+| 043 | [Polite Past Verb Form (～ました)](02-grammar/verbs/043-verb-polite-past-mashita.md)                               |
+| 044 | [Polite Past Negative Verb Form (～ませんでした)](02-grammar/verbs/044-verb-polite-past-negative-masen-deshita.md) |
 
 </details>
 
