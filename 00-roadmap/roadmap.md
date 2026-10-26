@@ -132,7 +132,8 @@ Understand Japanese verbs and their basic conjugations.
 - [x] ます form
 - [x] Polite negative (～ません)
 - [ ] Plain negative (～ない)
-- [ ] Past
+- [x] Polite past (～ました)
+- [ ] Plain past (～た)
 - [ ] Past negative
 - [x] Verb groups
 
@@ -140,7 +141,7 @@ Understand Japanese verbs and their basic conjugations.
 
 - [x] ～ます
 - [x] ～ません
-- [ ] ～ました
+- [x] ～ました
 - [ ] ～ませんでした
 - [x] Dictionary form
 - [ ] ～ない

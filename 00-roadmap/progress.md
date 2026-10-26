@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 042 - Polite Negative Verb Form (completed)
-- Focus: 043 - Verb Foundations (next)
+- Lesson: 043 - Polite Past Verb Form (completed)
+- Focus: 044 - Polite Past Negative Verb Form (next)
 
 ## Kana
 
@@ -40,6 +40,7 @@
 - [x] Question words: どこ・何・誰・いつ・いくら・どの・どれ
 - [x] Verb forms: dictionary form・ます form (Godan・Ichidan・irregular)
 - [x] Polite negative verb form: ～ません (Godan・Ichidan・irregular)
+- [x] Polite past verb form: ～ました (Godan・Ichidan・irregular)
 
 ## Vocabulary
 
