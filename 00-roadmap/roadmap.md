@@ -80,10 +80,10 @@ Understand and produce simple Japanese sentences.
 - [x] Noun + ではありません
 - [x] Noun + でした
 - [x] Noun + ではありませんでした
-- [ ] Noun + だ
-- [ ] Noun + じゃない
-- [ ] Noun + だった
-- [ ] Noun + じゃなかった
+- [x] Noun + だ
+- [x] Noun + じゃない
+- [x] Noun + だった
+- [x] Noun + じゃなかった
 - [x] Question sentences
 - [x] は
 - [x] が
