@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 044 - Polite Past Negative Verb Form (completed)
-- Focus: 045 - Plain Negative Verb Form (～ない) (next)
+- Lesson: 045 - Polite Past Noun Sentences (completed)
+- Focus: 046 - Plain Noun Sentence Forms (next)
 
 ## Kana
 
@@ -32,6 +32,7 @@
 - [x] Japanese sentence structure
 - [x] Particles: は・が・を・に・で・の・も・と・へ・から・まで
 - [x] Noun sentences: です・ではありません
+- [x] Polite past noun sentences: でした・ではありませんでした
 - [x] Questions: か
 - [x] Demonstratives:
   - これ・それ・あれ

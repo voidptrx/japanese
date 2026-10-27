@@ -52,12 +52,13 @@ Pre-N5 - Beginner (working toward JLPT N5)
 
 ### Sentence Patterns
 
-| No. | Lesson                                                                                                          |
-| --- | --------------------------------------------------------------------------------------------------------------- |
-| 015 | [Japanese Sentence Structure](02-grammar/sentence-patterns/015-japanese-sentence-structure.md)                  |
-| 027 | [Noun Sentences with です](02-grammar/sentence-patterns/027-noun-sentences-desu.md)                             |
-| 028 | [Negative Noun Sentences with ではありません](02-grammar/sentence-patterns/028-noun-sentences-dewa-arimasen.md) |
-| 029 | [Question Sentences with か](02-grammar/sentence-patterns/029-question-sentences-ka.md)                         |
+| No. | Lesson                                                                                                                      |
+| --- | --------------------------------------------------------------------------------------------------------------------------- |
+| 015 | [Japanese Sentence Structure](02-grammar/sentence-patterns/015-japanese-sentence-structure.md)                              |
+| 027 | [Noun Sentences with です](02-grammar/sentence-patterns/027-noun-sentences-desu.md)                                         |
+| 028 | [Negative Noun Sentences with ではありません](02-grammar/sentence-patterns/028-noun-sentences-dewa-arimasen.md)             |
+| 029 | [Question Sentences with か](02-grammar/sentence-patterns/029-question-sentences-ka.md)                                     |
+| 045 | [Polite Past Noun Sentences (でした・ではありませんでした)](02-grammar/sentence-patterns/045-noun-sentences-polite-past.md) |
 
 ### Particles
 
