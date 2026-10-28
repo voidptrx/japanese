@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (113)
+## Active (114)
 
-### 01 — Grammar and core words (49)
+### 01 — Grammar and core words (50)
 
 | Kana       | Kanji    | English                                           | Source |
 | ---------- | -------- | ------------------------------------------------- | ------ |
@@ -59,6 +59,7 @@
 | ひと       | 人       | person                                            | 040    |
 | にほんじん | 日本人   | Japanese person                                   | 040    |
 | します     | —        | do (polite); する (irregular)                     | 041    |
+| かいます   | 買います | buy (polite); 買う (Godan)                        | 047    |
 
 ### 02 — Everyday words (24)
 

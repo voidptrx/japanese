@@ -105,6 +105,7 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 042 | [Polite Negative Verb Form (～ません)](02-grammar/verbs/042-verb-polite-negative-masen.md)                         |
 | 043 | [Polite Past Verb Form (～ました)](02-grammar/verbs/043-verb-polite-past-mashita.md)                               |
 | 044 | [Polite Past Negative Verb Form (～ませんでした)](02-grammar/verbs/044-verb-polite-past-negative-masen-deshita.md) |
+| 047 | [Plain Negative Verb Form (～ない)](02-grammar/verbs/047-verb-plain-negative-nai.md)                               |
 
 </details>
 
