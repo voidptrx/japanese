@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (114)
+## Active (117)
 
-### 01 — Grammar and core words (50)
+### 01 — Grammar and core words (51)
 
 | Kana       | Kanji    | English                                           | Source |
 | ---------- | -------- | ------------------------------------------------- | ------ |
@@ -60,8 +60,9 @@
 | にほんじん | 日本人   | Japanese person                                   | 040    |
 | します     | —        | do (polite); する (irregular)                     | 041    |
 | かいます   | 買います | buy (polite); 買う (Godan)                        | 047    |
+| まちます   | 待ちます | wait (polite); 待つ (Godan)                       | 048    |
 
-### 02 — Everyday words (24)
+### 02 — Everyday words (26)
 
 | Kana             | Kanji      | English                                      | Source     |
 | ---------------- | ---------- | -------------------------------------------- | ---------- |
@@ -89,6 +90,8 @@
 | くじ             | 九時       | nine o'clock                                 | 026        |
 | はい             | —          | yes                                          | 029        |
 | いいえ           | —          | no                                           | 029        |
+| きのう           | 昨日       | yesterday                                    | 048        |
+| けさ             | 今朝       | this morning                                 | 048        |
 
 ### 03 — Kana review words (40)
 

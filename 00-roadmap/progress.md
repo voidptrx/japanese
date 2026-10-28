@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 047 - Plain Negative Verb Form (completed)
-- Focus: 048 - Plain Past Verb Form (～た) (next)
+- Lesson: 048 - Plain Past Verb Form (completed)
+- Focus: 049 - Plain Past Negative Verb Form (～なかった) (next)
 
 ## Kana
 
@@ -45,6 +45,7 @@
 - [x] Polite past verb form: ～ました (Godan・Ichidan・irregular)
 - [x] Polite past negative verb form: ～ませんでした (Godan・Ichidan・irregular)
 - [x] Plain negative verb form: ～ない (Godan・Ichidan・irregular)
+- [x] Plain past verb form: ～た (Godan・Ichidan・irregular)
 
 ## Vocabulary
 
