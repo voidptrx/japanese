@@ -141,7 +141,7 @@ Understand Japanese verbs and their basic conjugations.
 - [x] Polite past (～ました)
 - [x] Plain past (～た)
 - [x] Polite past negative (～ませんでした)
-- [ ] Plain past negative (～なかった)
+- [x] Plain past negative (～なかった)
 - [x] Verb groups
 
 ## Core conjugations
