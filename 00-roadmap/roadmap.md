@@ -189,7 +189,7 @@ Learn common N5 verbs in context.
 Understand one of the most important basic Japanese forms.
 
 - [x] Formation of て form
-- [ ] ～てください
+- [x] ～てください
 - [ ] ～ています
 - [ ] ～てもいいです
 - [ ] ～てはいけません

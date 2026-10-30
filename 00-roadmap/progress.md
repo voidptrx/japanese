@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 050 - Verb て-Form Formation (completed)
-- Focus: 051 - Requests with ～てください (next)
+- Lesson: 051 - Requests with ～てください (completed)
+- Focus: 052 - ～ています (next)
 
 ## Kana
 
@@ -48,6 +48,7 @@
 - [x] Plain past verb form: ～た (Godan・Ichidan・irregular)
 - [x] Plain past negative verb form: ～なかった (Godan・Ichidan・irregular)
 - [x] Verb て-form: formation and basic action sequences (Godan・Ichidan・irregular)
+- [x] Polite requests with ～てください
 
 ## Vocabulary
 

@@ -4,7 +4,7 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (119)
+## Active (122)
 
 ### 01 — Grammar and core words (53)
 
@@ -64,7 +64,7 @@
 | あそびます | 遊びます | play (polite); 遊ぶ (Godan)                       | 050    |
 | およぎます | 泳ぎます | swim (polite); 泳ぐ (Godan)                       | 050    |
 
-### 02 — Everyday words (26)
+### 02 — Everyday words (29)
 
 | Kana             | Kanji      | English                                      | Source     |
 | ---------------- | ---------- | -------------------------------------------- | ---------- |
@@ -94,6 +94,9 @@
 | いいえ           | —          | no                                           | 029        |
 | きのう           | 昨日       | yesterday                                    | 048        |
 | けさ             | 今朝       | this morning                                 | 048        |
+| ノート           | —          | notebook                                     | 051        |
+| でんわ           | 電話       | telephone; phone call                        | 051        |
+| まず             | —          | first; first of all                          | 051        |
 
 ### 03 — Kana review words (40)
 
