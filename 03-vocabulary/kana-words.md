@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (117)
+## Active (119)
 
-### 01 — Grammar and core words (51)
+### 01 — Grammar and core words (53)
 
 | Kana       | Kanji    | English                                           | Source |
 | ---------- | -------- | ------------------------------------------------- | ------ |
@@ -61,6 +61,8 @@
 | します     | —        | do (polite); する (irregular)                     | 041    |
 | かいます   | 買います | buy (polite); 買う (Godan)                        | 047    |
 | まちます   | 待ちます | wait (polite); 待つ (Godan)                       | 048    |
+| あそびます | 遊びます | play (polite); 遊ぶ (Godan)                       | 050    |
+| およぎます | 泳ぎます | swim (polite); 泳ぐ (Godan)                       | 050    |
 
 ### 02 — Everyday words (26)
 

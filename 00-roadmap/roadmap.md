@@ -153,7 +153,7 @@ Understand Japanese verbs and their basic conjugations.
 - [x] Dictionary form
 - [x] ～ない
 - [x] ～た
-- [ ] ～て
+- [x] ～て
 
 ### Core verbs
 
@@ -176,7 +176,7 @@ Learn common N5 verbs in context.
 
 ### Milestone
 
-- [ ] Conjugate common N5 verbs
+- [x] Conjugate common N5 verbs
 - [x] Understand basic verb sentences
 - [x] Produce simple sentences using verbs
 
@@ -188,17 +188,17 @@ Learn common N5 verbs in context.
 
 Understand one of the most important basic Japanese forms.
 
-- [ ] Formation of て form
+- [x] Formation of て form
 - [ ] ～てください
 - [ ] ～ています
 - [ ] ～てもいいです
 - [ ] ～てはいけません
-- [ ] ～て、...
-- [ ] Basic sequence of actions
+- [x] ～て、...
+- [x] Basic sequence of actions
 
 ### Milestone
 
-- [ ] Form the て form of common verbs
+- [x] Form the て form of common verbs
 - [ ] Understand common て-form constructions
 
 ---
