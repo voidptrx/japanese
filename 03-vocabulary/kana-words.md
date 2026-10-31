@@ -4,67 +4,68 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (122)
+## Active (124)
 
-### 01 — Grammar and core words (53)
+### 01 — Grammar and core words (54)
 
-| Kana       | Kanji    | English                                           | Source |
-| ---------- | -------- | ------------------------------------------------- | ------ |
-| わたし     | 私       | I, me                                             | 015    |
-| がくせい   | 学生     | student                                           | 015    |
-| みず       | 水       | water                                             | 015    |
-| のみます   | 飲みます | drink (polite)                                    | 015    |
-| たべます   | 食べます | eat (polite); 食べる (Ichidan)                    | 015    |
-| よみます   | 読みます | read (polite); 読む (Godan)                       | 015    |
-| この       | —        | this ... (must precede a noun)                    | 016    |
-| おもしろい | 面白い   | interesting                                       | 016    |
-| あつい     | 暑い     | hot (weather)                                     | 016    |
-| さむい     | 寒い     | cold (weather; feeling cold)                      | 016    |
-| ねこ       | 猫       | cat                                               | 016    |
-| かわいい   | 可愛い   | cute                                              | 016    |
-| だれ       | 誰       | who                                               | 017    |
-| きます     | 来ます   | come (polite); 来る (irregular)                   | 017    |
-| げんき     | 元気     | well; healthy; energetic                          | 017    |
-| あめ       | 雨       | rain                                              | 017    |
-| ふります   | 降ります | fall (rain or snow); polite                       | 017    |
-| います     | —        | exist; be present (people and animals); polite    | 017    |
-| あります   | —        | exist; be present (objects, plants, etc.); polite | 017    |
-| こうえん   | 公園     | park                                              | 019    |
-| へや       | 部屋     | room                                              | 019    |
-| うち       | 家       | home; our/my home                                 | 019    |
-| いきます   | 行きます | go (polite)                                       | 019    |
-| かえります | 帰ります | return, go home (polite)                          | 019    |
-| おきます   | 起きます | wake up, get up (polite)                          | 019    |
-| あげます   | —        | give (polite)                                     | 019    |
-| あした     | 明日     | tomorrow                                          | 019    |
-| はちじ     | 八時     | eight o'clock                                     | 019    |
-| なまえ     | 名前     | name                                              | 020    |
-| かきます   | 書きます | write (polite); 書く (Godan)                      | 020    |
-| にほんご   | 日本語   | Japanese language                                 | 020    |
-| はなします | 話します | speak (polite)                                    | 020    |
-| ほん       | 本       | book                                              | 006    |
-| がっこう   | 学校     | school                                            | 007    |
-| せんせい   | 先生     | teacher; instructor                               | 007    |
-| でんしゃ   | 電車     | train (electric train)                            | 004    |
-| バス       | —        | bus                                               | 009    |
-| ペン       | —        | pen                                               | 012    |
-| パン       | —        | bread                                             | 012    |
-| コーヒー   | —        | coffee                                            | 013    |
-| なに       | 何       | what (also read なん in certain constructions)    | 034    |
-| いつ       | —        | when                                              | 036    |
-| いくら     | —        | how much; how much money                          | 037    |
-| えん       | 円       | yen (Japanese currency)                           | 037    |
-| どの       | —        | which ... (must precede a noun)                   | 038    |
-| どれ       | —        | which one (independent)                           | 039    |
-| ひと       | 人       | person                                            | 040    |
-| にほんじん | 日本人   | Japanese person                                   | 040    |
-| します     | —        | do (polite); する (irregular)                     | 041    |
-| かいます   | 買います | buy (polite); 買う (Godan)                        | 047    |
-| まちます   | 待ちます | wait (polite); 待つ (Godan)                       | 048    |
-| あそびます | 遊びます | play (polite); 遊ぶ (Godan)                       | 050    |
-| およぎます | 泳ぎます | swim (polite); 泳ぐ (Godan)                       | 050    |
+| Kana       | Kanji    | English                                                                               | Source |
+| ---------- | -------- | ------------------------------------------------------------------------------------- | ------ |
+| わたし     | 私       | I, me                                                                                 | 015    |
+| がくせい   | 学生     | student                                                                               | 015    |
+| みず       | 水       | water                                                                                 | 015    |
+| のみます   | 飲みます | drink (polite)                                                                        | 015    |
+| たべます   | 食べます | eat (polite); 食べる (Ichidan)                                                        | 015    |
+| よみます   | 読みます | read (polite); 読む (Godan)                                                           | 015    |
+| この       | —        | this ... (must precede a noun)                                                        | 016    |
+| おもしろい | 面白い   | interesting                                                                           | 016    |
+| あつい     | 暑い     | hot (weather)                                                                         | 016    |
+| さむい     | 寒い     | cold (weather; feeling cold)                                                          | 016    |
+| ねこ       | 猫       | cat                                                                                   | 016    |
+| かわいい   | 可愛い   | cute                                                                                  | 016    |
+| だれ       | 誰       | who                                                                                   | 017    |
+| きます     | 来ます   | come (polite); 来る (irregular)                                                       | 017    |
+| げんき     | 元気     | well; healthy; energetic                                                              | 017    |
+| あめ       | 雨       | rain                                                                                  | 017    |
+| ふります   | 降ります | fall (rain or snow); polite                                                           | 017    |
+| います     | —        | exist; be present (people and animals); polite                                        | 017    |
+| あります   | —        | exist; be present (objects, plants, etc.); polite                                     | 017    |
+| こうえん   | 公園     | park                                                                                  | 019    |
+| へや       | 部屋     | room                                                                                  | 019    |
+| うち       | 家       | home; our/my home                                                                     | 019    |
+| いきます   | 行きます | go (polite)                                                                           | 019    |
+| かえります | 帰ります | return, go home (polite)                                                              | 019    |
+| おきます   | 起きます | wake up, get up (polite)                                                              | 019    |
+| あげます   | —        | give (polite)                                                                         | 019    |
+| あした     | 明日     | tomorrow                                                                              | 019    |
+| はちじ     | 八時     | eight o'clock                                                                         | 019    |
+| なまえ     | 名前     | name                                                                                  | 020    |
+| かきます   | 書きます | write (polite); 書く (Godan)                                                          | 020    |
+| にほんご   | 日本語   | Japanese language                                                                     | 020    |
+| はなします | 話します | speak (polite)                                                                        | 020    |
+| ほん       | 本       | book                                                                                  | 006    |
+| がっこう   | 学校     | school                                                                                | 007    |
+| せんせい   | 先生     | teacher; instructor                                                                   | 007    |
+| でんしゃ   | 電車     | train (electric train)                                                                | 004    |
+| バス       | —        | bus                                                                                   | 009    |
+| ペン       | —        | pen                                                                                   | 012    |
+| パン       | —        | bread                                                                                 | 012    |
+| コーヒー   | —        | coffee                                                                                | 013    |
+| なに       | 何       | what (also read なん in certain constructions)                                        | 034    |
+| いつ       | —        | when                                                                                  | 036    |
+| いくら     | —        | how much; how much money                                                              | 037    |
+| えん       | 円       | yen (Japanese currency)                                                               | 037    |
+| どの       | —        | which ... (must precede a noun)                                                       | 038    |
+| どれ       | —        | which one (independent)                                                               | 039    |
+| ひと       | 人       | person                                                                                | 040    |
+| にほんじん | 日本人   | Japanese person                                                                       | 040    |
+| します     | —        | do (polite); する (irregular)                                                         | 041    |
+| かいます   | 買います | buy (polite); 買う (Godan)                                                            | 047    |
+| まちます   | 待ちます | wait (polite); 待つ (Godan)                                                           | 048    |
+| あそびます | 遊びます | play (polite); 遊ぶ (Godan)                                                           | 050    |
+| およぎます | 泳ぎます | swim (polite); 泳ぐ (Godan)                                                           | 050    |
+| しります   | 知ります | learn; find out (polite); 知る (Godan); 知っています = know; 知りません = do not know | 052    |
 
-### 02 — Everyday words (29)
+### 02 — Everyday words (30)
 
 | Kana             | Kanji      | English                                      | Source     |
 | ---------------- | ---------- | -------------------------------------------- | ---------- |
@@ -97,6 +98,7 @@
 | ノート           | —          | notebook                                     | 051        |
 | でんわ           | 電話       | telephone; phone call                        | 051        |
 | まず             | —          | first; first of all                          | 051        |
+| ちかく           | 近く       | nearby; vicinity; near                       | 052        |
 
 ### 03 — Kana review words (40)
 

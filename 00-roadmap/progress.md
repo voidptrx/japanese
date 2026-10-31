@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 051 - Requests with ～てください (completed)
-- Focus: 052 - ～ています (next)
+- Lesson: 052 - Continuing Actions and States (～ています) (completed)
+- Focus: 053 - Permission with ～てもいいです (next)
 
 ## Kana
 
@@ -49,6 +49,7 @@
 - [x] Plain past negative verb form: ～なかった (Godan・Ichidan・irregular)
 - [x] Verb て-form: formation and basic action sequences (Godan・Ichidan・irregular)
 - [x] Polite requests with ～てください
+- [x] Continuing actions and states with ～ている・～ています
 
 ## Vocabulary
 
