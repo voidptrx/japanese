@@ -192,14 +192,14 @@ Understand one of the most important basic Japanese forms.
 - [x] ～てください
 - [x] ～ています
 - [x] ～てもいいです
-- [ ] ～てはいけません
+- [x] ～てはいけません
 - [x] ～て、...
 - [x] Basic sequence of actions
 
 ### Milestone
 
 - [x] Form the て form of common verbs
-- [ ] Understand common て-form constructions
+- [x] Understand common て-form constructions
 
 ---
 

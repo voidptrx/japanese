@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 053 - Permission with ～てもいいです (completed)
-- Focus: 054 - Prohibition with ～てはいけません (next)
+- Lesson: 054 - Prohibition with ～てはいけません (completed)
+- Focus: 055 - Adjectives (next)
 
 ## Kana
 
@@ -51,6 +51,7 @@
 - [x] Polite requests with ～てください
 - [x] Continuing actions and states with ～ている・～ています
 - [x] Asking for and giving permission with ～てもいいです・～てもいいですか
+- [x] Prohibition with ～てはいけません・～てはいけない
 
 ## Vocabulary
 

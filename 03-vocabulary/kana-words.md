@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (129)
+## Active (134)
 
-### 01 — Grammar and core words (57)
+### 01 — Grammar and core words (60)
 
 | Kana       | Kanji    | English                                                                               | Source |
 | ---------- | -------- | ------------------------------------------------------------------------------------- | ------ |
@@ -67,8 +67,11 @@
 | かります   | 借ります | borrow (polite); 借りる (Ichidan)                                                     | 053    |
 | つかいます | 使います | use (polite); 使う (Godan)                                                            | 053    |
 | でます     | 出ます   | go out; leave (polite); 出る (Ichidan)                                                | 053    |
+| あいます   | 会います | meet (polite); 会う (Godan)                                                           | 054    |
+| はいります | 入ります | enter (polite); 入る (Godan)                                                          | 054    |
+| すいます   | 吸います | inhale; smoke (polite); 吸う (Godan)                                                  | 054    |
 
-### 02 — Everyday words (32)
+### 02 — Everyday words (34)
 
 | Kana             | Kanji      | English                                      | Source     |
 | ---------------- | ---------- | -------------------------------------------- | ---------- |
@@ -104,6 +107,8 @@
 | ちかく           | 近く       | nearby; vicinity; near                       | 052        |
 | あとで           | 後で       | later; afterward                             | 053        |
 | そと             | 外         | outside                                      | 053        |
+| けいたいでんわ   | 携帯電話   | mobile phone; cellphone                      | 054        |
+| たばこ           | —          | cigarette; tobacco                           | 054        |
 
 ### 03 — Kana review words (40)
 
