@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (124)
+## Active (129)
 
-### 01 — Grammar and core words (54)
+### 01 — Grammar and core words (57)
 
 | Kana       | Kanji    | English                                                                               | Source |
 | ---------- | -------- | ------------------------------------------------------------------------------------- | ------ |
@@ -64,8 +64,11 @@
 | あそびます | 遊びます | play (polite); 遊ぶ (Godan)                                                           | 050    |
 | およぎます | 泳ぎます | swim (polite); 泳ぐ (Godan)                                                           | 050    |
 | しります   | 知ります | learn; find out (polite); 知る (Godan); 知っています = know; 知りません = do not know | 052    |
+| かります   | 借ります | borrow (polite); 借りる (Ichidan)                                                     | 053    |
+| つかいます | 使います | use (polite); 使う (Godan)                                                            | 053    |
+| でます     | 出ます   | go out; leave (polite); 出る (Ichidan)                                                | 053    |
 
-### 02 — Everyday words (30)
+### 02 — Everyday words (32)
 
 | Kana             | Kanji      | English                                      | Source     |
 | ---------------- | ---------- | -------------------------------------------- | ---------- |
@@ -99,6 +102,8 @@
 | でんわ           | 電話       | telephone; phone call                        | 051        |
 | まず             | —          | first; first of all                          | 051        |
 | ちかく           | 近く       | nearby; vicinity; near                       | 052        |
+| あとで           | 後で       | later; afterward                             | 053        |
+| そと             | 外         | outside                                      | 053        |
 
 ### 03 — Kana review words (40)
 
@@ -198,9 +203,3 @@
 | ファッション | —                                           | fashion                                                        | 014    |
 | シェア       | —                                           | sharing                                                        | 014    |
 | さくら       | 桜 (cherry blossom); names vary             | cherry blossom; Sakura as a given name (name kanji vary)       | 017    |
-
-## Lesson additions and Anki
-
-Add useful new words once, with their lesson number and a short Japanese example. If a word is in Later, move that entry to Active; keep its original source and record the activation lesson.
-
-Anki files keep **Front / Back / Tags** (UTF-8, tab-separated, Basic): **kana / meaning + optional kanji + example / tags**. Keep existing Front values; disambiguate a new homophone before importing.

@@ -111,6 +111,7 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 050 | [Verb て-Form Formation (～て)](02-grammar/verbs/050-verb-te-form-formation.md)                                    |
 | 051 | [Requests with ～てください](02-grammar/verbs/051-requests-te-kudasai.md)                                          |
 | 052 | [Continuing Actions and States (～ています)](02-grammar/verbs/052-continuing-actions-states-te-imasu.md)           |
+| 053 | [Permission with ～てもいいです](02-grammar/verbs/053-permission-te-mo-ii-desu.md)                                 |
 
 </details>
 

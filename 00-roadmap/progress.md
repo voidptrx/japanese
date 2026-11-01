@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 052 - Continuing Actions and States (～ています) (completed)
-- Focus: 053 - Permission with ～てもいいです (next)
+- Lesson: 053 - Permission with ～てもいいです (completed)
+- Focus: 054 - Prohibition with ～てはいけません (next)
 
 ## Kana
 
@@ -50,6 +50,7 @@
 - [x] Verb て-form: formation and basic action sequences (Godan・Ichidan・irregular)
 - [x] Polite requests with ～てください
 - [x] Continuing actions and states with ～ている・～ています
+- [x] Asking for and giving permission with ～てもいいです・～てもいいですか
 
 ## Vocabulary
 

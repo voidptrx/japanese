@@ -191,7 +191,7 @@ Understand one of the most important basic Japanese forms.
 - [x] Formation of て form
 - [x] ～てください
 - [x] ～ています
-- [ ] ～てもいいです
+- [x] ～てもいいです
 - [ ] ～てはいけません
 - [x] ～て、...
 - [x] Basic sequence of actions
