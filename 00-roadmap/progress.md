@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 054 - Prohibition with ～てはいけません (completed)
-- Focus: 055 - Adjectives (next)
+- Lesson: 055 - Introduction to い-Adjectives and な-Adjectives (completed)
+- Focus: 056 - Negative い-Adjectives (next)
 
 ## Kana
 
@@ -52,6 +52,7 @@
 - [x] Continuing actions and states with ～ている・～ています
 - [x] Asking for and giving permission with ～てもいいです・～てもいいですか
 - [x] Prohibition with ～てはいけません・～てはいけない
+- [x] Basic usage of い-adjectives and な-adjectives
 
 ## Vocabulary
 

@@ -211,14 +211,14 @@ Understand and use い-adjectives and な-adjectives.
 
 ## い-adjectives
 
-- [ ] Basic usage
+- [x] Basic usage
 - [ ] Negative
 - [ ] Past
 - [ ] Past negative
 
 ## な-adjectives
 
-- [ ] Basic usage
+- [x] Basic usage
 - [ ] Negative
 - [ ] Past
 - [ ] Past negative

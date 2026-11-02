@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (134)
+## Active (141)
 
-### 01 — Grammar and core words (60)
+### 01 — Grammar and core words (67)
 
 | Kana       | Kanji    | English                                                                               | Source |
 | ---------- | -------- | ------------------------------------------------------------------------------------- | ------ |
@@ -70,6 +70,13 @@
 | あいます   | 会います | meet (polite); 会う (Godan)                                                           | 054    |
 | はいります | 入ります | enter (polite); 入る (Godan)                                                          | 054    |
 | すいます   | 吸います | inhale; smoke (polite); 吸う (Godan)                                                  | 054    |
+| たかい     | 高い     | expensive; high (i-adjective)                                                         | 055    |
+| おいしい   | —        | tasty; delicious (i-adjective)                                                        | 055    |
+| しずか     | 静か     | quiet; calm (na-adjective)                                                            | 055    |
+| きれい     | —        | beautiful; clean (na-adjective)                                                       | 055    |
+| しんせつ   | 親切     | kind; helpful (na-adjective)                                                          | 055    |
+| すずしい   | 涼しい   | cool; pleasantly cool (i-adjective)                                                   | 055    |
+| とても     | —        | very (degree adverb)                                                                  | 055    |
 
 ### 02 — Everyday words (34)
 

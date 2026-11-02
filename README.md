@@ -114,6 +114,12 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 053 | [Permission with ～てもいいです](02-grammar/verbs/053-permission-te-mo-ii-desu.md)                                 |
 | 054 | [Prohibition with ～てはいけません](02-grammar/verbs/054-prohibition-te-wa-ikemasen.md)                            |
 
+### Adjectives
+
+| No. | Lesson                                                                                                 |
+| --- | ------------------------------------------------------------------------------------------------------ |
+| 055 | [Introduction to い-Adjectives and な-Adjectives](02-grammar/adjectives/055-adjectives-basic-usage.md) |
+
 </details>
 
 <details>
