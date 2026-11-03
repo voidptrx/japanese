@@ -212,7 +212,7 @@ Understand and use い-adjectives and な-adjectives.
 ## い-adjectives
 
 - [x] Basic usage
-- [ ] Negative
+- [x] Negative
 - [ ] Past
 - [ ] Past negative
 

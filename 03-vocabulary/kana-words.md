@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (141)
+## Active (142)
 
-### 01 — Grammar and core words (67)
+### 01 — Grammar and core words (68)
 
 | Kana       | Kanji    | English                                                                               | Source |
 | ---------- | -------- | ------------------------------------------------------------------------------------- | ------ |
@@ -77,6 +77,7 @@
 | しんせつ   | 親切     | kind; helpful (na-adjective)                                                          | 055    |
 | すずしい   | 涼しい   | cool; pleasantly cool (i-adjective)                                                   | 055    |
 | とても     | —        | very (degree adverb)                                                                  | 055    |
+| あまい     | 甘い     | sweet (i-adjective)                                                                   | 056    |
 
 ### 02 — Everyday words (34)
 
