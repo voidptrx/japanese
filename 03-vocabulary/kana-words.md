@@ -4,7 +4,7 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (142)
+## Active (143)
 
 ### 01 — Grammar and core words (68)
 
@@ -79,7 +79,7 @@
 | とても     | —        | very (degree adverb)                                                                  | 055    |
 | あまい     | 甘い     | sweet (i-adjective)                                                                   | 056    |
 
-### 02 — Everyday words (34)
+### 02 — Everyday words (35)
 
 | Kana             | Kanji      | English                                      | Source     |
 | ---------------- | ---------- | -------------------------------------------- | ---------- |
@@ -117,6 +117,7 @@
 | そと             | 外         | outside                                      | 053        |
 | けいたいでんわ   | 携帯電話   | mobile phone; cellphone                      | 054        |
 | たばこ           | —          | cigarette; tobacco                           | 054        |
+| かばん           | —          | bag; handbag                                 | 057        |
 
 ### 03 — Kana review words (40)
 

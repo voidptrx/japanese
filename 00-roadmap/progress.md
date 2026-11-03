@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 056 - Negative い-Adjectives (～くない) (completed)
-- Focus: 057 - Past い-Adjectives (next)
+- Lesson: 057 - Past い-Adjectives (～かった) (completed)
+- Focus: 058 - Past Negative い-Adjectives (next)
 
 ## Kana
 
@@ -54,6 +54,7 @@
 - [x] Prohibition with ～てはいけません・～てはいけない
 - [x] Basic usage of い-adjectives and な-adjectives
 - [x] Negative い-adjectives: ～くない・～くないです・～くありません
+- [x] Past い-adjectives: ～かった・～かったです (including いい → よかった)
 
 ## Vocabulary
 
