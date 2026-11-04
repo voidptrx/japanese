@@ -4,7 +4,7 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (143)
+## Active (146)
 
 ### 01 — Grammar and core words (68)
 
@@ -79,7 +79,7 @@
 | とても     | —        | very (degree adverb)                                                                  | 055    |
 | あまい     | 甘い     | sweet (i-adjective)                                                                   | 056    |
 
-### 02 — Everyday words (35)
+### 02 — Everyday words (38)
 
 | Kana             | Kanji      | English                                      | Source     |
 | ---------------- | ---------- | -------------------------------------------- | ---------- |
@@ -118,6 +118,9 @@
 | けいたいでんわ   | 携帯電話   | mobile phone; cellphone                      | 054        |
 | たばこ           | —          | cigarette; tobacco                           | 054        |
 | かばん           | —          | bag; handbag                                 | 057        |
+| パーティー       | —          | party                                        | 014        |
+| りょうり         | 料理       | cooking; prepared food; dish                 | 058        |
+| えいが           | 映画       | movie; film                                  | 058        |
 
 ### 03 — Kana review words (40)
 
@@ -164,7 +167,7 @@
 | りょこう   | 旅行     | travel / trip                                                 | 007    |
 | さんぽ     | 散歩     | walk, stroll                                                  | 006    |
 
-## Later (49)
+## Later (48)
 
 | Kana         | Kanji                                       | English                                                        | Source |
 | ------------ | ------------------------------------------- | -------------------------------------------------------------- | ------ |
@@ -211,7 +214,6 @@
 | カーテン     | —                                           | curtain                                                        | 013    |
 | フィルム     | —                                           | film                                                           | 014    |
 | フェリー     | —                                           | ferry                                                          | 014    |
-| パーティー   | —                                           | party                                                          | 014    |
 | ディスク     | —                                           | disk                                                           | 014    |
 | チェック     | —                                           | check                                                          | 014    |
 | ファッション | —                                           | fashion                                                        | 014    |

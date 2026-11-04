@@ -214,7 +214,7 @@ Understand and use い-adjectives and な-adjectives.
 - [x] Basic usage
 - [x] Negative
 - [x] Past
-- [ ] Past negative
+- [x] Past negative
 
 ## な-adjectives
 

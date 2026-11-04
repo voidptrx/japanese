@@ -121,6 +121,7 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 055 | [Introduction to い-Adjectives and な-Adjectives](02-grammar/adjectives/055-adjectives-basic-usage.md) |
 | 056 | [Negative い-Adjectives (～くない)](02-grammar/adjectives/056-negative-i-adjectives.md)                |
 | 057 | [Past い-Adjectives (～かった)](02-grammar/adjectives/057-past-i-adjectives.md)                        |
+| 058 | [Past Negative い-Adjectives (～くなかった)](02-grammar/adjectives/058-past-negative-i-adjectives.md)  |
 
 </details>
 
