@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (146)
+## Active (148)
 
-### 01 — Grammar and core words (68)
+### 01 — Grammar and core words (69)
 
 | Kana       | Kanji    | English                                                                               | Source |
 | ---------- | -------- | ------------------------------------------------------------------------------------- | ------ |
@@ -78,8 +78,9 @@
 | すずしい   | 涼しい   | cool; pleasantly cool (i-adjective)                                                   | 055    |
 | とても     | —        | very (degree adverb)                                                                  | 055    |
 | あまい     | 甘い     | sweet (i-adjective)                                                                   | 056    |
+| じょうぶ   | 丈夫     | sturdy; durable (na-adjective)                                                        | 059    |
 
-### 02 — Everyday words (38)
+### 02 — Everyday words (39)
 
 | Kana             | Kanji      | English                                      | Source     |
 | ---------------- | ---------- | -------------------------------------------- | ---------- |
@@ -121,6 +122,7 @@
 | パーティー       | —          | party                                        | 014        |
 | りょうり         | 料理       | cooking; prepared food; dish                 | 058        |
 | えいが           | 映画       | movie; film                                  | 058        |
+| かさ             | 傘         | umbrella                                     | 059        |
 
 ### 03 — Kana review words (40)
 

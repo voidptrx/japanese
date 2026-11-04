@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 058 - Past Negative い-Adjectives (～くなかった) (completed)
-- Focus: 059 - Negative な-Adjectives (next)
+- Lesson: 059 - Negative な-Adjectives (～じゃない) (completed)
+- Focus: 060 - Past な-Adjectives (next)
 
 ## Kana
 
@@ -56,6 +56,7 @@
 - [x] Negative い-adjectives: ～くない・～くないです・～くありません
 - [x] Past い-adjectives: ～かった・～かったです
 - [x] Past negative い-adjectives: ～くなかった・～くなかったです・～くありませんでした
+- [x] Negative な-adjectives: ～じゃない・～じゃないです・～ではありません
 
 ## Vocabulary
 
