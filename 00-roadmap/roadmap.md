@@ -220,7 +220,7 @@ Understand and use い-adjectives and な-adjectives.
 
 - [x] Basic usage
 - [x] Negative
-- [ ] Past
+- [x] Past
 - [ ] Past negative
 
 ### Core vocabulary
