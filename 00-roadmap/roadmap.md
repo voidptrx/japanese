@@ -242,8 +242,8 @@ Understand and use い-adjectives and な-adjectives.
 
 ### Milestone
 
-- [ ] Describe people, objects and places
-- [ ] Conjugate basic adjectives
+- [x] Describe people, objects and places
+- [x] Conjugate basic adjectives
 
 ---
 

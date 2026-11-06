@@ -4,7 +4,7 @@
 
 - Level: Japanese 0 - N5 foundations
 - Lesson: 061 - Past Negative な-Adjectives (～じゃなかった) (completed)
-- Focus: Phase 5 - Adjectives milestone review (next)
+- Focus: Phase 6 - Time, Place & Quantity (next)
 
 ## Kana
 
