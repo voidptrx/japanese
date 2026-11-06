@@ -116,14 +116,15 @@ Pre-N5 - Beginner (working toward JLPT N5)
 
 ### Adjectives
 
-| No. | Lesson                                                                                                 |
-| --- | ------------------------------------------------------------------------------------------------------ |
-| 055 | [Introduction to い-Adjectives and な-Adjectives](02-grammar/adjectives/055-adjectives-basic-usage.md) |
-| 056 | [Negative い-Adjectives (～くない)](02-grammar/adjectives/056-negative-i-adjectives.md)                |
-| 057 | [Past い-Adjectives (～かった)](02-grammar/adjectives/057-past-i-adjectives.md)                        |
-| 058 | [Past Negative い-Adjectives (～くなかった)](02-grammar/adjectives/058-past-negative-i-adjectives.md)  |
-| 059 | [Negative な-Adjectives (～じゃない)](02-grammar/adjectives/059-negative-na-adjectives.md)             |
-| 060 | [Past な-Adjectives (～だった)](02-grammar/adjectives/060-past-na-adjectives.md)                       |
+| No. | Lesson                                                                                                   |
+| --- | -------------------------------------------------------------------------------------------------------- |
+| 055 | [Introduction to い-Adjectives and な-Adjectives](02-grammar/adjectives/055-adjectives-basic-usage.md)   |
+| 056 | [Negative い-Adjectives (～くない)](02-grammar/adjectives/056-negative-i-adjectives.md)                  |
+| 057 | [Past い-Adjectives (～かった)](02-grammar/adjectives/057-past-i-adjectives.md)                          |
+| 058 | [Past Negative い-Adjectives (～くなかった)](02-grammar/adjectives/058-past-negative-i-adjectives.md)    |
+| 059 | [Negative な-Adjectives (～じゃない)](02-grammar/adjectives/059-negative-na-adjectives.md)               |
+| 060 | [Past な-Adjectives (～だった)](02-grammar/adjectives/060-past-na-adjectives.md)                         |
+| 061 | [Past Negative な-Adjectives (～じゃなかった)](02-grammar/adjectives/061-past-negative-na-adjectives.md) |
 
 </details>
 
