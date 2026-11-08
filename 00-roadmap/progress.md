@@ -3,8 +3,8 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 061 - Past Negative な-Adjectives (～じゃなかった) (completed)
-- Focus: Phase 6 - Time, Place & Quantity (next)
+- Lesson: 062 - Today (今日) (completed)
+- Focus: Phase 6 - Time, Place & Quantity (in progress)
 
 ## Kana
 
@@ -59,6 +59,7 @@
 - [x] Negative な-adjectives: ～じゃない・～じゃないです・～ではありません
 - [x] Past な-adjectives: ～だった・～でした
 - [x] Past negative な-adjectives: ～じゃなかった・～じゃなかったです・～ではありませんでした
+- [x] Relative time expression: 今日（きょう）
 
 ## Vocabulary
 

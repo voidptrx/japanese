@@ -126,6 +126,12 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 060 | [Past な-Adjectives (～だった)](02-grammar/adjectives/060-past-na-adjectives.md)                         |
 | 061 | [Past Negative な-Adjectives (～じゃなかった)](02-grammar/adjectives/061-past-negative-na-adjectives.md) |
 
+### Time
+
+| No. | Lesson                                                      |
+| --- | ----------------------------------------------------------- |
+| 062 | [Today (今日)](02-grammar/time/062-time-expression-kyou.md) |
+
 </details>
 
 <details>
