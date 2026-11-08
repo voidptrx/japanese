@@ -3,7 +3,7 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 062 - Today (今日) (completed)
+- Lesson: 063 - Yesterday (昨日) (completed)
 - Focus: Phase 6 - Time, Place & Quantity (in progress)
 
 ## Kana
@@ -60,6 +60,7 @@
 - [x] Past な-adjectives: ～だった・～でした
 - [x] Past negative な-adjectives: ～じゃなかった・～じゃなかったです・～ではありませんでした
 - [x] Relative time expression: 今日（きょう）
+- [x] Relative time expression: 昨日（きのう）
 
 ## Vocabulary
 

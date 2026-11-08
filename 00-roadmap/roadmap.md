@@ -256,7 +256,7 @@ Express everyday situations more naturally.
 ## Time
 
 - [x] 今日
-- [ ] 昨日
+- [x] 昨日
 - [ ] 明日
 - [ ] 毎日
 - [ ] 朝

@@ -128,9 +128,10 @@ Pre-N5 - Beginner (working toward JLPT N5)
 
 ### Time
 
-| No. | Lesson                                                      |
-| --- | ----------------------------------------------------------- |
-| 062 | [Today (今日)](02-grammar/time/062-time-expression-kyou.md) |
+| No. | Lesson                                                           |
+| --- | ---------------------------------------------------------------- |
+| 062 | [Today (今日)](02-grammar/time/062-time-expression-kyou.md)      |
+| 063 | [Yesterday (昨日)](02-grammar/time/063-time-expression-kinou.md) |
 
 </details>
 
