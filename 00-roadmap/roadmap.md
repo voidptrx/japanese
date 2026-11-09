@@ -257,7 +257,7 @@ Express everyday situations more naturally.
 
 - [x] 今日
 - [x] 昨日
-- [ ] 明日
+- [x] 明日
 - [ ] 毎日
 - [ ] 朝
 - [ ] 昼
