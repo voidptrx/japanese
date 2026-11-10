@@ -259,7 +259,7 @@ Express everyday situations more naturally.
 - [x] 昨日
 - [x] 明日
 - [x] 毎日
-- [ ] 朝
+- [x] 朝
 - [ ] 昼
 - [ ] 夜
 - [ ] Basic time expressions

@@ -3,7 +3,7 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 065 - Every Day (毎日) (completed)
+- Lesson: 066 - Morning (朝) (completed)
 - Focus: Phase 6 - Time, Place & Quantity (in progress)
 
 ## Kana
@@ -63,6 +63,7 @@
 - [x] Relative time expression: 昨日（きのう）
 - [x] Relative time expression: 明日（あした）
 - [x] Frequency expression: 毎日（まいにち）
+- [x] Morning time expressions: 朝（あさ）・今朝（けさ）・毎朝（まいあさ）
 
 ## Vocabulary
 
