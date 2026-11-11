@@ -135,6 +135,7 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 064 | [Tomorrow (明日)](02-grammar/time/064-time-expression-ashita.md)    |
 | 065 | [Every Day (毎日)](02-grammar/time/065-time-expression-mainichi.md) |
 | 066 | [Morning (朝)](02-grammar/time/066-time-expression-asa.md)          |
+| 067 | [Noon / Daytime (昼)](02-grammar/time/067-time-expression-hiru.md)  |
 
 </details>
 

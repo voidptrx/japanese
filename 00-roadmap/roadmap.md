@@ -260,7 +260,7 @@ Express everyday situations more naturally.
 - [x] 明日
 - [x] 毎日
 - [x] 朝
-- [ ] 昼
+- [x] 昼
 - [ ] 夜
 - [ ] Basic time expressions
 

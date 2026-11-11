@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (151)
+## Active (152)
 
-### 01 — Grammar and core words (72)
+### 01 — Grammar and core words (74)
 
 | Kana       | Kanji    | English                                                                               | Source |
 | ---------- | -------- | ------------------------------------------------------------------------------------- | ------ |
@@ -82,6 +82,7 @@
 | まいにち   | 毎日     | every day; daily                                                                      | 065    |
 | あさ       | 朝       | morning                                                                               | 066    |
 | まいあさ   | 毎朝     | every morning                                                                         | 066    |
+| ひる       | 昼       | noon; daytime                                                                         | 067    |
 
 ### 02 — Everyday words (39)
 
