@@ -136,6 +136,7 @@ Pre-N5 - Beginner (working toward JLPT N5)
 | 065 | [Every Day (毎日)](02-grammar/time/065-time-expression-mainichi.md) |
 | 066 | [Morning (朝)](02-grammar/time/066-time-expression-asa.md)          |
 | 067 | [Noon / Daytime (昼)](02-grammar/time/067-time-expression-hiru.md)  |
+| 068 | [Evening / Night (夜)](02-grammar/time/068-time-expression-yoru.md) |
 
 </details>
 

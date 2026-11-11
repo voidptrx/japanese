@@ -261,7 +261,7 @@ Express everyday situations more naturally.
 - [x] 毎日
 - [x] 朝
 - [x] 昼
-- [ ] 夜
+- [x] 夜
 - [ ] Basic time expressions
 
 ## Place
