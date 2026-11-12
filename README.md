@@ -128,15 +128,16 @@ Pre-N5 - Beginner (working toward JLPT N5)
 
 ### Time
 
-| No. | Lesson                                                              |
-| --- | ------------------------------------------------------------------- |
-| 062 | [Today (今日)](02-grammar/time/062-time-expression-kyou.md)         |
-| 063 | [Yesterday (昨日)](02-grammar/time/063-time-expression-kinou.md)    |
-| 064 | [Tomorrow (明日)](02-grammar/time/064-time-expression-ashita.md)    |
-| 065 | [Every Day (毎日)](02-grammar/time/065-time-expression-mainichi.md) |
-| 066 | [Morning (朝)](02-grammar/time/066-time-expression-asa.md)          |
-| 067 | [Noon / Daytime (昼)](02-grammar/time/067-time-expression-hiru.md)  |
-| 068 | [Evening / Night (夜)](02-grammar/time/068-time-expression-yoru.md) |
+| No. | Lesson                                                                  |
+| --- | ----------------------------------------------------------------------- |
+| 062 | [Today (今日)](02-grammar/time/062-time-expression-kyou.md)             |
+| 063 | [Yesterday (昨日)](02-grammar/time/063-time-expression-kinou.md)        |
+| 064 | [Tomorrow (明日)](02-grammar/time/064-time-expression-ashita.md)        |
+| 065 | [Every Day (毎日)](02-grammar/time/065-time-expression-mainichi.md)     |
+| 066 | [Morning (朝)](02-grammar/time/066-time-expression-asa.md)              |
+| 067 | [Noon / Daytime (昼)](02-grammar/time/067-time-expression-hiru.md)      |
+| 068 | [Evening / Night (夜)](02-grammar/time/068-time-expression-yoru.md)     |
+| 069 | [Basic Time Expressions](02-grammar/time/069-basic-time-expressions.md) |
 
 </details>
 

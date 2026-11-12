@@ -262,7 +262,7 @@ Express everyday situations more naturally.
 - [x] 朝
 - [x] 昼
 - [x] 夜
-- [ ] Basic time expressions
+- [x] Basic time expressions
 
 ## Place
 

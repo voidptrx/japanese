@@ -4,9 +4,9 @@
 - Kanji is optional. Verb entries use polite non-past forms; dictionary forms and verb groups are included when studied.
 - Source = original lesson number; Supplement = an additional word from the starter set.
 
-## Active (155)
+## Active (159)
 
-### 01 — Grammar and core words (76)
+### 01 — Grammar and core words (80)
 
 | Kana       | Kanji    | English                                                                               | Source |
 | ---------- | -------- | ------------------------------------------------------------------------------------- | ------ |
@@ -86,6 +86,10 @@
 | よる       | 夜       | evening; night                                                                        | 068    |
 | こんや     | 今夜     | tonight                                                                               | 068    |
 | まいばん   | 毎晩     | every evening/night                                                                   | 068    |
+| まだ       | —        | yet; still (depending on context)                                                     | 068    |
+| さっき     | —        | a moment ago; just now                                                                | 069    |
+| これから   | —        | from now on; about to                                                                 | 069    |
+| もうすぐ   | —        | very soon; shortly                                                                    | 069    |
 
 ### 02 — Everyday words (39)
 

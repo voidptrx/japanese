@@ -3,7 +3,7 @@
 ## Current
 
 - Level: Japanese 0 - N5 foundations
-- Lesson: 068 - Evening / Night (夜) (completed)
+- Lesson: 069 - Basic Time Expressions (completed)
 - Focus: Phase 6 - Time, Place & Quantity (in progress)
 
 ## Kana
@@ -66,6 +66,7 @@
 - [x] Morning time expressions: 朝（あさ）・今朝（けさ）・毎朝（まいあさ）
 - [x] Noon / daytime expression: 昼（ひる）
 - [x] Evening / night expressions: 夜（よる）・今夜（こんや）・毎晩（まいばん）
+- [x] Basic time expressions: 今・さっき・これから・後で・もうすぐ
 
 ## Vocabulary
 
