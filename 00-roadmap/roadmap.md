@@ -247,11 +247,11 @@ Understand and use い-adjectives and な-adjectives.
 
 ---
 
-# Phase 6 — Time, Place & Quantity
+# Phase 6 — Time & Quantity
 
 ### Goal
 
-Express everyday situations more naturally.
+Express everyday situations naturally using time, location, numbers, and quantities.
 
 ## Time
 
@@ -264,127 +264,150 @@ Express everyday situations more naturally.
 - [x] 夜
 - [x] Basic time expressions
 
-## Place
-
-- [ ] に
-- [ ] で
-- [ ] へ
-- [ ] あります
-- [ ] います
-
 ## Quantity
 
-- [ ] Basic numbers
-- [ ] Hours
-- [ ] Minutes
-- [ ] People
-- [ ] Objects
-- [ ] Common counters
+- [ ] Basic numbers and their readings
+- [ ] Hours and clock-time questions
+- [ ] Minutes and half-hour expressions
+- [ ] Counting people (～人)
+- [ ] Counting general objects (～つ)
+- [ ] Common counters for everyday objects
+- [ ] Combining quantities with familiar sentence patterns
 
 ### Milestone
 
-- [ ] Talk about daily routines
-- [ ] Describe where things and people are
-- [ ] Express basic quantities and times
+- [ ] Describe everyday routines using familiar time expressions
+- [ ] Distinguish destinations, action locations, and locations of existence
+- [ ] State and ask about basic times and quantities
+- [ ] Understand and produce short everyday descriptions combining time, place, and quantity
 
 ---
 
-# Phase 7 — Core N5 Grammar
+# Phase 7 — Remaining Core Grammar
 
 ### Goal
 
-Complete the core N5 grammar foundation.
+Systematically learn foundational grammar structures not already covered in earlier lessons.
 
-- [ ] ～たい
-- [ ] ～ましょう
-- [ ] ～ませんか
-- [ ] ～てください
-- [ ] ～てもいい
-- [ ] ～てはいけない
-- [ ] ～ています
-- [ ] ～ことができます
-- [ ] ～ことです
-- [ ] ～のが好きです
-- [ ] ～から
-- [ ] ～まで
-- [ ] ～より
-- [ ] ～ほうが
-- [ ] ～が好き
-- [ ] ～が上手
-- [ ] ～があります
-- [ ] ～がいます
-- [ ] Basic ～と思います
-- [ ] Basic ～でしょう
+Do not repeat completed grammar lessons merely because their constructions appear in a broader N5 grammar checklist.
+
+## Desires, Requests and Invitations
+
+- [ ] Express personal desires with ～たい
+- [ ] Express wanting things with ～がほしい
+- [ ] Make suggestions with ～ましょう
+- [ ] Invite someone with ～ませんか
+- [ ] Make negative requests with ～ないでください
+
+## Ability and Preference
+
+- [ ] Express ability with ～ことができる
+- [ ] Express preferences with ～が好き
+- [ ] Express liking activities with ～のが好き
+- [ ] Express skill with ～が上手
+
+Familiar adjectives such as 好き and 上手 should not be retaught from the beginning. Focus on new sentence patterns and their particles.
+
+## Reasons and Sequence
+
+- [ ] Explain reasons with causal ～から
+- [ ] Understand basic causal ～ので
+- [ ] Express an action completed before another with ～てから
+- [ ] Describe temporal relationships with ～前に and ～後で
+- [ ] Express basic situations with ～とき
+
+Distinguish causal から from the previously learned starting-point particle.
+
+## Noun Modification
+
+- [ ] Use verb clauses to modify nouns
+- [ ] Understand the tense and polarity of noun-modifying clauses
+
+Build on familiar examples such as 借りた本 rather than treating them as entirely new vocabulary.
+
+## Comparison and Viewpoint
+
+- [ ] Make basic comparisons with ～より
+- [ ] Express preferences in comparisons with ～ほうが
+- [ ] Express basic thoughts with ～と思う
+- [ ] Understand and use basic ～でしょう
+
+### Lesson Planning
+
+- Consult Cure Dolly's EPUB and Tae Kim's Grammar Guide before introducing a new structure.
+- Check whether the target was already taught in lessons 001–069 or later completed lessons.
+- A numbered lesson must have a distinct, demonstrable learning objective.
+- Combine closely related material when that improves understanding.
+- Correct recurring mistakes through spaced review, comprehension, production, and mixed tests.
+- Preserve the established six-stage lesson workflow.
+- Continue plain and polite practice together.
+- Integrate vocabulary, kanji, reading, listening, and active production into every lesson.
+- Divide long conversations at natural topic boundaries within the phase when necessary.
 
 ### Milestone
 
-- [ ] Understand the main N5 grammar patterns
-- [ ] Produce sentences using them
-- [ ] Recognize them in reading and listening
+- [ ] Understand the remaining foundational grammar patterns
+- [ ] Produce familiar and unfamiliar sentences independently
+- [ ] Distinguish similar constructions in context
+- [ ] Apply learned grammar in reading and listening
+- [ ] Demonstrate retention through mixed assessments
 
 ---
 
-# Phase 8 — Vocabulary
+# Ongoing Learning Areas
+
+These areas are developed continuously across grammar lessons and review sessions. They are not separate sequential phases.
+
+## Vocabulary
 
 ### Goal
 
-Build a practical N5 vocabulary foundation.
+Build an actively usable vocabulary through context, recall, and spaced repetition.
 
-## Target
+### Targets
 
-Approximately:
+- [ ] 100 reliably recalled words
+- [ ] 250 reliably recalled words
+- [ ] 500 reliably recalled words
+- [ ] 750 reliably recalled words
+- [ ] 1000 reliably recalled words
 
-- [ ] 100 words
-- [ ] 250 words
-- [ ] 500 words
-- [ ] 750 words
-- [ ] 1000 words
+Vocabulary list size and demonstrated recall are different measures.
 
-## Categories
+### Categories
 
-- [ ] People
-- [ ] Family
-- [ ] School
-- [ ] Work
-- [ ] Home
-- [ ] Food
-- [ ] Places
-- [ ] Transportation
-- [ ] Time
-- [ ] Daily activities
-- [ ] Common verbs
-- [ ] Common adjectives
-- [ ] Basic adverbs
-- [ ] Question words
+- People and family
+- School and work
+- Home and everyday objects
+- Food and shopping
+- Places and transportation
+- Time and quantity
+- Common verbs and adjectives
+- Daily activities
+- Question words and basic adverbs
 
-### Principle
+### Principles
 
-Vocabulary should be learned primarily through:
+- Learn vocabulary through words, sentences, and context.
+- Reuse previously learned vocabulary in varied situations.
+- Avoid repeatedly relying on the same small set of examples.
+- Follow the established kana-words.md and Anki conventions.
+- Review due Anki cards before introducing new cards.
+- Keep the existing limit of seven new Anki cards per day.
 
-> word → example → sentence → context
-
-rather than isolated memorization.
-
----
-
-# Phase 9 — Kanji
+## Kanji
 
 ### Goal
 
-Build a useful beginner kanji foundation.
+Develop kanji recognition and reading through vocabulary.
 
-## Target
-
-Approximately 80–100 basic kanji.
-
-### Learning Progress
+### Progress
 
 - [x] Lesson 040 — Introduction to Kanji
 - [x] Understand On'yomi and Kun'yomi
-- [x] Learn basic stroke-order principles
+- [x] Understand basic stroke-order principles
 - [x] Understand okurigana
 - [x] Study first five kanji: 日・本・人・学・校
-- [ ] Integrate kanji into grammar and vocabulary lessons
 
 ### Milestones
 
@@ -393,126 +416,111 @@ Approximately 80–100 basic kanji.
 - [ ] 75 kanji
 - [ ] 100 kanji
 
-### Learning principle
+### Principle
 
-Do not learn kanji as isolated symbols.
-
-Learn:
+Learn kanji through meaningful words and contexts.
 
 > Kanji → word → reading → meaning → sentence
 
-Example:
+Distinguish recognition from independent recall.
 
-> 日 → 日本 → 日本語 → 今日 → 毎日
-
-### Milestone
-
-- [ ] Recognize common N5 kanji
-- [ ] Read common kanji compounds
-- [ ] Understand common readings in context
-
----
-
-# Phase 10 — Reading
+## Reading
 
 ### Goal
 
-Gradually move from controlled sentences to short Japanese texts.
+Progress from controlled sentences to unfamiliar beginner texts.
 
-## Stages
+### Development
 
-- [ ] Single sentences
-- [ ] Short dialogues
-- [ ] Very short paragraphs
-- [ ] Graded beginner texts
-- [ ] N5-style reading passages
+- [ ] Understand individual sentences reliably
+- [ ] Understand short dialogues
+- [ ] Understand short paragraphs
+- [ ] Read graded beginner texts
+- [ ] Understand N5-style passages
 
-### Reading skills
+### Skills
 
-- [ ] Identify the predicate
-- [ ] Identify particles
-- [ ] Identify modifiers
-- [ ] Recognize verb forms
-- [ ] Infer omitted subjects
-- [ ] Understand sentence relationships
+- Identify predicates and grammatical roles
+- Recognize familiar grammar and vocabulary
+- Understand modifiers and omitted information
+- Follow relationships between sentences
+- Infer meaning from context without guessing missing details
 
----
+Use increasingly varied texts rather than recycling the same examples.
 
-# Phase 11 — Listening
-
-### Goal
-
-Understand simple spoken Japanese.
-
-Start listening from the beginning.
-
-## Stages
-
-- [ ] Individual words
-- [ ] Short sentences
-- [ ] Short dialogues
-- [ ] Slow beginner Japanese
-- [ ] N5-style listening questions
-
-### Listening skills
-
-- [ ] Recognize familiar vocabulary
-- [ ] Recognize common grammar patterns
-- [ ] Follow basic sentence structure
-- [ ] Identify key information
-- [ ] Understand simple everyday conversations
-
----
-
-# Phase 12 — Active Production
+## Listening
 
 ### Goal
 
-Use what we learn instead of only recognizing it.
+Understand familiar Japanese in authentic recorded speech.
 
-- [ ] Create simple sentences
-- [ ] Answer basic questions
+### Development
+
+- [ ] Recognize individual words
+- [ ] Understand short recorded sentences
+- [ ] Understand short dialogues without first reading transcripts
+- [ ] Understand slow beginner-level conversations
+- [ ] Answer N5-style listening questions
+
+### Principles
+
+- Use genuine audio recordings.
+- Listen before reading the transcript when appropriate.
+- Separate pronunciation recognition from comprehension.
+- Evaluate understanding of meaning, not only the ability to repeat words.
+- Reuse previously learned grammar and vocabulary.
+
+## Active Production
+
+### Goal
+
+Produce Japanese independently rather than only recognizing correct forms.
+
+### Skills
+
+- [ ] Produce simple sentences independently
+- [ ] Answer familiar questions
 - [ ] Describe daily routines
-- [ ] Describe people and objects
-- [ ] Talk about past events
-- [ ] Talk about plans
-- [ ] Express likes and dislikes
-- [ ] Ask simple questions
+- [ ] Describe people, objects, and places
+- [ ] Describe past events
+- [ ] Express plans and intentions
+- [ ] Explain preferences and basic reasons
+- [ ] Ask questions in plain and polite contexts
 
-### Principle
+### Principles
 
-Recognition is not enough.
+- Do not provide Japanese scaffolding in independent production tasks.
+- Vary verbs, nouns, adjectives, and situations.
+- Evaluate grammar, word choice, and completeness separately.
+- Require retention across later mixed exercises.
 
-> I understand it ≠ I can use it.
-
----
-
-# Phase 13 — Review & Error Correction
+## Spaced Review & Error Correction
 
 ### Goal
 
-Turn mistakes into learning material.
+Improve retention and resolve recurring mistakes without unnecessarily repeating complete lessons.
 
-- [ ] Track recurring mistakes in progress.md when necessary
-- [ ] Review difficult grammar
-- [ ] Review difficult vocabulary
-- [ ] Review difficult kanji
-- [ ] Revisit old lessons
-- [ ] Practice active recall
-
-## Review cycle
-
-New material:
+### Review Cycle
 
 > Day 0 → Day 1 → Day 3 → Day 7 → Day 14 → Day 30
 
+### Principles
+
+- Review previously learned material across lessons.
+- Include recently learned and older constructions together.
+- Distinguish grammar errors from misreading and IME mistakes.
+- Revisit recurring mistakes in new contexts.
+- Record persistent weaknesses in progress.md when useful.
+- Use targeted practice before considering any substantial reteaching.
+- Do not create a new numbered lesson or repository note solely for error correction.
+
 ---
 
-# Phase 14 — N5 Exam Preparation
+# Phase 8 — N5 Integration & Exam Preparation
 
 ### Goal
 
-Convert knowledge into JLPT performance.
+Integrate existing knowledge and evaluate readiness for JLPT N5 before progressing toward N4.
 
 ## Vocabulary
 
@@ -524,22 +532,39 @@ Convert knowledge into JLPT performance.
 
 ## Grammar
 
+- [ ] N5 grammar coverage check
 - [ ] N5 grammar review
 
 ## Reading
 
 - [ ] N5 reading practice
+- [ ] Understand unfamiliar beginner passages
 
 ## Listening
 
 - [ ] N5 listening practice
+- [ ] Understand short recorded conversations
 
-## Mock exams
+## Integrated Assessment
+
+- [ ] Evaluate grammar, vocabulary, kanji, reading, and listening
+- [ ] Identify remaining weaknesses
+- [ ] Complete targeted review where necessary
+
+## Mock Exams
 
 - [ ] Mock exam 1
 - [ ] Mock exam 2
 - [ ] Mock exam 3
 - [ ] Final review
+
+### Milestone
+
+- [ ] Meet the N5 completion criteria
+- [ ] Demonstrate consistent performance across different question types
+- [ ] Prepare to continue toward N4
+
+---
 
 ---
 
